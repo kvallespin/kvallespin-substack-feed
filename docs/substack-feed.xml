@@ -7,6 +7,137 @@
     <language>en-us</language>
     <generator>scripts/substack_export.py</generator>
     <item>
+      <title>Beyond Copy-Paste: Reimagining Philippine Computer Engineering</title>
+      <link>https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering</link>
+      <guid isPermaLink="true">https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[Kenneth Vallespin]]></dc:creator>
+      <description><![CDATA[An Electronics Engineer examines the proposed Computer Engineering Act and its copy-paste legislative approach.]]></description>
+      <content:encoded><![CDATA[<p><img alt="Computer Science Vs Computer Engineering" src="https://habib.edu.pk/wp-content/uploads/2024/08/cs-vs-ce-1.jpg" /></p>
+<p><em>Image: Computer Science Vs Computer Engineering: Make Informed Decisions!, Habib University</em></p>
+<p>As an Electronics Engineer (ECE), I've spent years thinking about how our professions have evolved in the Philippines. When I first started practicing, the engineering landscape looked very different. The profession had undergone a major transformation decades earlier, and that history offers important lessons for our current debate over the proposed Computer Engineering Act (HB 3845).</p>
+<h2>The historical split: electrical to electronics</h2>
+<p>In the Philippines, the engineering profession originally operated under a unified framework. Electrical Engineering was the dominant discipline, encompassing power systems, telecommunications, electronics, and eventually computing.</p>
+<p>This changed with <strong>Republic Act 5734, the Electronics and Communications Engineering Act of 1969</strong>, signed by President Ferdinand Marcos on June 21, 1969. This landmark legislation formally recognized Electronics and Communications Engineering as a distinct professional field in the Philippines. It established the Board of Examiners for Electronics and Communications Engineers, defined the practice of the profession, and set examination requirements for registration.</p>
+<p>The Institute of Electronics and Communications Engineers of the Philippines (IECEP), which had been founded in 1950, played a crucial role in advocating for this recognition. By the late 1960s, the technology had become too specialized for one profession to cover adequately. Electronics and communications engineers worked with semiconductor devices, signal processing, and radio communications - quite different from the power systems focus of electrical engineers.</p>
+<p>This split made sense at the time. It reflected the actual evolution of technology and the distinct expertise being developed. Both professions continued to work with physical hardware, but their focus areas had diverged significantly.</p>
+<h2>The grandfather clause lesson</h2>
+<p>When RA 5734 was enacted, thousands of individuals were already working in telecommunications, radio stations, and electronics without a formal ECE board certificate. To prevent mass unemployment and honor their experience, Section 19 of RA 5734 included a "grandfather clause" that allowed qualified practitioners to be licensed without taking the board examination. Applicants had to:</p>
+<ul>
+<li>Graduate with a BSEE or related degree with 3+ years experience, OR</li>
+<li>Have an associate degree with 5+ years experience, OR</li>
+<li>Hold a valid government radio operator's license with 5+ years experience</li>
+</ul>
+<p>This practical approach recognized that real-world experience mattered, especially for those who had been practicing before formal licensure existed.</p>
+<p>This lesson is relevant today as we evaluate the current Computer Engineering Act proposals.</p>
+<h2>The current situation with computer engineering</h2>
+<p>Now, as we consider House Bill No. 3845 (the proposed "Computer Engineering Act"), I wonder if we're making a different kind of mistake - not splitting too late, but splitting too soon. And in a way that doesn't reflect the actual nature of the work.</p>
+<p>The proposed Computer Engineering Act is largely a copy-paste of the Electronics Engineering Law (RA 9292). The definitions are identical, word for word. The scope of practice is nearly verbatim. The examination procedures are the same. The only change? "Electronic" is replaced with "computer."</p>
+<p>This is not a thoughtful, considered piece of legislation. It's lazy.</p>
+<h3>The evidence: word-for-word copying</h3>
+<p><strong>The "Computer" Definition</strong></p>
+<blockquote>
+<p><strong>RA 9292, Section 3(f):</strong>
+"Computer - electronic device capable of accepting data, programs and/or instructions, executing programs/instructions to process data and presenting results."</p>
+<p><strong>HB 3845, Section 2(e):</strong>
+"Computer - any of a variety of electronic devices that is capable of accepting data, programs and/or instructions, executing the programs and/or instructions to process the data and presenting the results"</p>
+</blockquote>
+<p>Identical. The bill even adds the unnecessary "any of a variety of" - a filler phrase that suggests the drafter didn't even understand what they were copying. This is a 1990s definition of "computer" that would be laughable if it weren't so serious.</p>
+<p><strong>The ICT Definition</strong></p>
+<blockquote>
+<p><strong>RA 9292, Section 3(g):</strong>
+"ICT - acquisition, production, transformation, storage and transmission/reception of data and information by electronic means in vocal, pictorial, textual, numeric or other forms."</p>
+<p><strong>HB 3845, Section 2(f):</strong>
+"ICT - acquisition, production, transformation, storage and transmission/reception of data and information by electronic means in forms such as vocal, pictorial, textual, numeric or the like; also refers to theoretical and practical applications and processes utilizing such data and information"</p>
+</blockquote>
+<p>Identical, with a tiny addendum.</p>
+<p><strong>The Industrial Plant and Commercial Establishment Definitions</strong></p>
+<blockquote>
+<p><strong>RA 9292, Section 3(k):</strong>
+"Industrial Plant - manufacturing establishments where electronic or electronically-controlled machinery/equipment are installed/used/sold/maintained/assembled/manufactured/operated."</p>
+<p><strong>HB 3845, Section 2(g):</strong>
+"Industrial Plant - manufacturing establishments where computer or computer-controlled machinery/equipment are installed/used/sold/maintained/assembled/manufactured/operated"</p>
+</blockquote>
+<p>Same structure. Same slash separators. Same verb list. Just "electronic" → "computer."</p>
+<p><strong>The Scope of Practice</strong></p>
+<p>Here's the most striking evidence. Compare the scope of practice for Electronics Engineers in RA 9292 with the scope for Computer Engineers in HB 3845:</p>
+<blockquote>
+<p><strong>RA 9292, Section 5(a) - ECE Scope:</strong>
+"application of engineering sciences and/or principles to investigation, analysis, synthesis, planning, design, specification, research and development, provision, procurement, marketing and sales, manufacture and production, construction and installation, tests/measurements/control, operation, repair, servicing, technical support and maintenance of <strong>electronic components, devices, products, apparatus, instruments, equipment, systems, networks, operations and processes</strong> in the fields of electronics, including communications and/or telecommunications, information and communications technology (ICT), computers and their networking and hardware/firmware/software development and applications..."</p>
+<p><strong>HB 3845, Section 3(c) - CpE Scope:</strong>
+"any work or activity relating to the application of engineering sciences and/or principles to investigation, analysis, synthesis, planning, design, specification, research and development, provision, procurement, marketing and sales, manufacture and production, construction and installation, tests/measurements/control, operation, repair, servicing, technical support and maintenance of <strong>computer and all associated devices, products, apparatus, instruments, equipment, systems, networks, operations and processes</strong> including information and communications technology (ICT), computers networks, firmware, software development and applications..."</p>
+</blockquote>
+<p>The only difference is the highlighted substitution: "electronic components, devices, products" becomes "computer and all associated devices, products." The rest is identical. Even the catch-all "all other related and convergent fields" is preserved.</p>
+<h2>The scope nitpick: what's actually different?</h2>
+<p>Let's dissect the scope of practice provisions in detail.</p>
+<p><strong>RA 9292, Section 5(a) - Electronics Engineer Scope:</strong>
+"application of engineering sciences and/or principles to the investigation, analysis, synthesis, planning, design, specification, research and development, provision, procurement, marketing and sales, manufacture and production, construction and installation, tests/measurements/control, operation, repair, servicing, technical support and maintenance of <strong>electronic components, devices, products, apparatus, instruments, equipment, systems, networks, operations and processes</strong> in the fields of electronics, including communications and/or telecommunications, <strong>information and communications technology (ICT), computers and their networking and hardware/firmware/software development and applications</strong>, broadcast/broadcasting, cable and wireless television, consumer and industrial electronics, electro-optics/photonics/opto-electronics, electro-magnetics, avionics, aerospace, navigational and military applications, medical electronics, robotics, cybernetics, biometrics and all other related and convergent fields"</p>
+<p><strong>HB 3845, Section 3(c) - Computer Engineer Scope:</strong>
+"application of engineering sciences and/or principles to the investigation, analysis, synthesis, planning, design, specification, research and development, provision, procurement, marketing and sales, manufacture and production, construction and installation, tests/measurements/control, operation, repair, servicing, technical support and maintenance of <strong>computer and all associated devices, products, apparatus, instruments, equipment, systems, networks, operations and processes</strong> including <strong>information and communications technology (ICT), computers networks, firmware, software development and applications</strong>, biomedical electronics, robotics, cybernetics, biometrics, embedded system, microelectronics, FPGA, and all other related and convergent fields"</p>
+<p>The differences are minimal:</p>
+<ol>
+<li>
+<p><strong>"electronic components, devices, products" → "computer and all associated devices, products"</strong> - The ECE scope already includes computers. This substitution doesn't expand CPE scope beyond what ECE already covers.</p>
+</li>
+<li>
+<p><strong>Added fields in CPE scope:</strong> biomedical electronics, embedded system, microelectronics, FPGA - These are not new to computer engineering. Medical electronics (biomedical electronics) is already in the ECE scope. Microelectronics and FPGA are subfields of electronics that ECEs already practice. Embedded systems are electronics that use computers - already covered.</p>
+</li>
+</ol>
+<p>More importantly, these are all part of the standard Electronics Engineering curriculum in the Philippines. I took courses in all of these as an ECE student. The Computer Science curriculum includes different content - algorithms, data structures, software engineering. If we're going to create a distinct Computer Engineering profession, we first need to delineate what makes it different academically. The Commission on Higher Education (CHED), along with other private and state program accreditation bodies, must align the curriculum with the scope of practice before we attempt a professional split. Otherwise, we'll have chaos: professionals regulated under different laws but trained in the same programs, with no clear way to know which license applies to which work. This is a recipe for piles of litigation from both sides.</p>
+<ol start="3">
+<li>
+<p><strong>Removed from CPE scope:</strong> communications, telecommunications, broadcast/broadcasting, cable and wireless television, consumer and industrial electronics, electro-optics/photonics/opto-electronics, electro-magnetics, avionics, aerospace, navigational and military applications - The CPE bill removed these from its scope, presumably because they're "electronics" not "computers." But this creates a gap: if a computer is used in avionics or aerospace, who regulates it? The CPE or the ECE? The bill doesn't say.</p>
+</li>
+<li>
+<p><strong>The catch-all "all other related and convergent fields"</strong> - Both scopes end with this. This means any work that could be argued as "related and convergent" falls within both professions' scopes. The CPE bill didn't even try to narrow this.</p>
+</li>
+</ol>
+<p>The bottom line: the CPE scope is not distinct from the ECE scope. It's a subset with different boundaries drawn around the same work. The bill's authors drew arbitrary lines between "electronic" and "computer" without recognizing that modern electronics is computers and modern computers are electronics.</p>
+<h3>Why this matters</h3>
+<p>The scope of practice defined in HB 3845 is counterintuitive and counterproductive. It takes scope from the ECE law - "computers and their networking and hardware/firmware/software development" - and transfers it to the new CPE profession. But this creates a paradox: the ECE law already covers this scope. The ECE exam already includes computers and ICT as required subjects. The ECE board already regulates this work.</p>
+<p>What HB 3845 does is create two professions with overlapping scopes. This is not a split - it's a confusion. And confusion in professional regulation leads to inefficiency, litigation, and ultimately, a weaker profession for everyone.</p>
+<h2>The tiered profession system is confusing</h2>
+<p>HB 3845 creates four distinct professional levels: Computer Technician (CpTn), Computer Engineering Technologist (CpET), Computer Engineer (RCpE), and Professional Computer Engineer (PCpE). But the distinctions between them are unclear.</p>
+<p>Compare this to the ECE law, which has a clear progression: Electronics Technician (ECT), Electronics Engineer (ECE), and Professional Electronics Engineer (PECE). Each level has distinct qualifications and scope.</p>
+<p>The CPE bill's tiering seems arbitrary. What exactly distinguishes a "Computer Technician" from a "Computer Engineering Technologist"? The bill doesn't say. And what's the difference between a "Computer Engineer" and a "Professional Computer Engineer"? The bill says the latter can provide "consulting services" - but that's it. That's the only difference.</p>
+<p>This is another example of the copy-paste approach: the bill copied the four-tier structure from the ASEAN Engineering Register (AER) framework without thinking about whether it makes sense for computer engineering specifically. The AER system exists for international mobility of engineers across ASEAN countries - but the Philippines already has its own tiered system that works fine for ECE. Why create a new one for CPE?</p>
+<h2>An identity crisis in committee</h2>
+<p>The sponsors and proponents of the Computer Engineering Act seem to be suffering from an identity crisis - they want computer engineering to be recognized as a distinct profession, but they can't articulate what makes it distinct. They're so focused on getting licensure that they've forgotten to ask the fundamental question: what is the practice of computer engineering that isn't already covered by existing laws?</p>
+<p>They're trying to create a new profession by copy-pasting an old one, hoping that the mere act of creating a new board and new licensure exams will somehow magically establish computer engineering as a legitimate, separate field. But it won't. Without a clear, distinct scope of practice, computer engineering will remain a subset of electronics engineering, and the new profession will be redundant.</p>
+<p>This is why the bill has been stuck in committee for four years. Committee members see the copy-paste nature of the legislation. They see that it doesn't address the unique challenges and realities of modern computer engineering work. They see that it would create confusion, not clarity.</p>
+<h2>A bill that died twice</h2>
+<p>The proposed Computer Engineering Act isn't new. House Bill No. 4833, filed in the 20th Congress in September 2025 by Rep. Jonathan Keith T. Flores, is a refiling of the same bill from the 18th Congress. The original HB 8743 was filed in February 2021 by Rep. Rufus Rodriguez and referred to the Committee on Civil Service and Professional Regulation in February 2021. It never moved past committee - no second reading, no approval, no action. When the 18th Congress adjourned in June 2022, the bill died.</p>
+<p>Now HB 4833 is sitting in the same committee, pending since September 26, 2025. The exact same bill text, word-for-word identical, has now been stalled for over four years across two Congresses.</p>
+<p>Why? Because the bill is fundamentally flawed. It's not a thoughtful, considered piece of legislation. It's a copy-paste of an existing law that doesn't make sense for the modern world of computer engineering.</p>
+<h2>A more thoughtful approach</h2>
+<p>Instead of copying the ECE law, HB 4833 should have focused on what makes computer engineering unique in the modern era: its role in the Fourth Industrial Revolution.</p>
+<p>We are not just building hardware anymore. We are building intelligent systems. We are designing AI models, machine learning algorithms, and autonomous systems that will transform every aspect of our lives. Computer engineers are at the forefront of this transformation.</p>
+<p>A modern Computer Engineering Act should recognize this reality. It should:</p>
+<ol>
+<li><strong>Define computer engineering as a distinct profession</strong> with its own scope, not as a subset of electronics engineering.</li>
+<li><strong>Include provisions for software engineering standards</strong> (IEEE/ACM standards, software testing, quality assurance, version control).</li>
+<li><strong>Address the digital nature of modern CPE work</strong> (digital signatures, cloud services, SaaS, mobile apps, AI/ML development).</li>
+<li><strong>Create a coherent tier system</strong> with clear distinctions between Technician, Technologist, Engineer, and Professional Engineer levels.</li>
+<li><strong>Establish actual penalties</strong> for violations (not just copy the ECE law's penalty provisions).</li>
+<li><strong>Define and establish the integrated professional organization</strong> (ICpEP) with clear governance and accountability.</li>
+<li><strong>Include provisions for continuing professional education</strong> specific to the rapidly evolving CPE field.</li>
+<li><strong>Address the unique challenges of the CPE profession</strong> (open source licensing, intellectual property, cybersecurity, ethical AI).</li>
+</ol>
+<h3>The future of CPE in the Philippines</h3>
+<p>As an Electronics Engineer, I'm not opposed to recognizing computer engineering as a distinct profession. In fact, I think it's long overdue. The Philippines has produced some of the world's finest computer engineers, and they deserve proper recognition.</p>
+<p>But recognition should be based on substance, not on copy-pasting an existing law. It should reflect the actual nature of the work being done, not just the historical legacy of how we used to regulate these professions.</p>
+<p>The Computer Engineering Act should be a forward-looking piece of legislation that prepares the Philippines for the future, not a backward-looking copy of a law written 20 years ago.</p>
+<p>Let's do this right. Let's create a profession that is distinct, recognized, and truly represents the cutting-edge work being done by Filipino computer engineers around the world.</p>
+<h2>Sources</h2>
+<ul>
+<li>House Bill No. 4833 - The Computer Engineering Act (20th Congress refiling): <a href="https://docs.congress.hrep.online/legisdocs/basic_20/HB04833.pdf">https://docs.congress.hrep.online/legisdocs/basic_20/HB04833.pdf</a></li>
+<li>House Bill No. 3845 - The Computer Engineering Act: <a href="https://docs.congress.hrep.online/legisdocs/basic_20/HB03845.pdf">https://docs.congress.hrep.online/legisdocs/basic_20/HB03845.pdf</a></li>
+<li>House Bill No. 8743 - AN ACT PROVIDING FOR A MORE RESPONSIVE AND COMPREHENSIVE REGULATION FOR THE REGISTRATION, LICENSING AND PRACTICE OF PROFESSIONAL COMPUTER ENGINEERS, REGISTERED COMPUTER ENGINEERS, COMPUTER ENGINEERING TECHNOLOGISTS, AND COMPUTER TECHNICIANS: <a href="https://ldr.senate.gov.ph/bills/house-bill-no-8743-18th-congress-republic">https://ldr.senate.gov.ph/bills/house-bill-no-8743-18th-congress-republic</a></li>
+<li>Republic Act No. 9292 - Electronics Engineering Law of 2004: <a href="https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1514">https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1514</a></li>
+<li>Republic Act No. 5734 - Electronics and Communications Engineering Act of 1969: <a href="https://lawphil.net/statutes/repacts/ra1969/ra_5734_1969.html">https://lawphil.net/statutes/repacts/ra1969/ra_5734_1969.html</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
       <title>The cure for AI slop is a boring 40-year-old manual</title>
       <link>https://kvallespin.github.io/data-science/ai-slop-ste</link>
       <guid isPermaLink="true">https://kvallespin.github.io/data-science/ai-slop-ste</guid>
@@ -3587,137 +3718,6 @@ Build with clarity. Document with intent.</p>
 <h2>Sources</h2>
 <ul>
 <li>KPMG, <em>Financial modelling: Aviation finance</em>, January 2016. <a href="https://assets.kpmg.com/content/dam/kpmg/pdf/2016/03/financial-modelling-for-aviation-jan-2016.pdf">PDF</a></li>
-</ul>]]></content:encoded>
-    </item>
-    <item>
-      <title>Beyond Copy-Paste: Reimagining Philippine Computer Engineering</title>
-      <link>https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering</link>
-      <guid isPermaLink="true">https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering</guid>
-      <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[Kenneth Vallespin]]></dc:creator>
-      <description><![CDATA[An Electronics Engineer examines the proposed Computer Engineering Act and its copy-paste legislative approach.]]></description>
-      <content:encoded><![CDATA[<p><img alt="Computer Science Vs Computer Engineering" src="https://habib.edu.pk/wp-content/uploads/2024/08/cs-vs-ce-1.jpg" /></p>
-<p><em>Image: Computer Science Vs Computer Engineering: Make Informed Decisions!, Habib University</em></p>
-<p>As an Electronics Engineer (ECE), I've spent years thinking about how our professions have evolved in the Philippines. When I first started practicing, the engineering landscape looked very different. The profession had undergone a major transformation decades earlier, and that history offers important lessons for our current debate over the proposed Computer Engineering Act (HB 3845).</p>
-<h2>The historical split: electrical to electronics</h2>
-<p>In the Philippines, the engineering profession originally operated under a unified framework. Electrical Engineering was the dominant discipline, encompassing power systems, telecommunications, electronics, and eventually computing.</p>
-<p>This changed with <strong>Republic Act 5734, the Electronics and Communications Engineering Act of 1969</strong>, signed by President Ferdinand Marcos on June 21, 1969. This landmark legislation formally recognized Electronics and Communications Engineering as a distinct professional field in the Philippines. It established the Board of Examiners for Electronics and Communications Engineers, defined the practice of the profession, and set examination requirements for registration.</p>
-<p>The Institute of Electronics and Communications Engineers of the Philippines (IECEP), which had been founded in 1950, played a crucial role in advocating for this recognition. By the late 1960s, the technology had become too specialized for one profession to cover adequately. Electronics and communications engineers worked with semiconductor devices, signal processing, and radio communications - quite different from the power systems focus of electrical engineers.</p>
-<p>This split made sense at the time. It reflected the actual evolution of technology and the distinct expertise being developed. Both professions continued to work with physical hardware, but their focus areas had diverged significantly.</p>
-<h2>The grandfather clause lesson</h2>
-<p>When RA 5734 was enacted, thousands of individuals were already working in telecommunications, radio stations, and electronics without a formal ECE board certificate. To prevent mass unemployment and honor their experience, Section 19 of RA 5734 included a "grandfather clause" that allowed qualified practitioners to be licensed without taking the board examination. Applicants had to:</p>
-<ul>
-<li>Graduate with a BSEE or related degree with 3+ years experience, OR</li>
-<li>Have an associate degree with 5+ years experience, OR</li>
-<li>Hold a valid government radio operator's license with 5+ years experience</li>
-</ul>
-<p>This practical approach recognized that real-world experience mattered, especially for those who had been practicing before formal licensure existed.</p>
-<p>This lesson is relevant today as we evaluate the current Computer Engineering Act proposals.</p>
-<h2>The current situation with computer engineering</h2>
-<p>Now, as we consider House Bill No. 3845 (the proposed "Computer Engineering Act"), I wonder if we're making a different kind of mistake - not splitting too late, but splitting too soon. And in a way that doesn't reflect the actual nature of the work.</p>
-<p>The proposed Computer Engineering Act is largely a copy-paste of the Electronics Engineering Law (RA 9292). The definitions are identical, word for word. The scope of practice is nearly verbatim. The examination procedures are the same. The only change? "Electronic" is replaced with "computer."</p>
-<p>This is not a thoughtful, considered piece of legislation. It's lazy.</p>
-<h3>The evidence: word-for-word copying</h3>
-<p><strong>The "Computer" Definition</strong></p>
-<blockquote>
-<p><strong>RA 9292, Section 3(f):</strong>
-"Computer - electronic device capable of accepting data, programs and/or instructions, executing programs/instructions to process data and presenting results."</p>
-<p><strong>HB 3845, Section 2(e):</strong>
-"Computer - any of a variety of electronic devices that is capable of accepting data, programs and/or instructions, executing the programs and/or instructions to process the data and presenting the results"</p>
-</blockquote>
-<p>Identical. The bill even adds the unnecessary "any of a variety of" - a filler phrase that suggests the drafter didn't even understand what they were copying. This is a 1990s definition of "computer" that would be laughable if it weren't so serious.</p>
-<p><strong>The ICT Definition</strong></p>
-<blockquote>
-<p><strong>RA 9292, Section 3(g):</strong>
-"ICT - acquisition, production, transformation, storage and transmission/reception of data and information by electronic means in vocal, pictorial, textual, numeric or other forms."</p>
-<p><strong>HB 3845, Section 2(f):</strong>
-"ICT - acquisition, production, transformation, storage and transmission/reception of data and information by electronic means in forms such as vocal, pictorial, textual, numeric or the like; also refers to theoretical and practical applications and processes utilizing such data and information"</p>
-</blockquote>
-<p>Identical, with a tiny addendum.</p>
-<p><strong>The Industrial Plant and Commercial Establishment Definitions</strong></p>
-<blockquote>
-<p><strong>RA 9292, Section 3(k):</strong>
-"Industrial Plant - manufacturing establishments where electronic or electronically-controlled machinery/equipment are installed/used/sold/maintained/assembled/manufactured/operated."</p>
-<p><strong>HB 3845, Section 2(g):</strong>
-"Industrial Plant - manufacturing establishments where computer or computer-controlled machinery/equipment are installed/used/sold/maintained/assembled/manufactured/operated"</p>
-</blockquote>
-<p>Same structure. Same slash separators. Same verb list. Just "electronic" → "computer."</p>
-<p><strong>The Scope of Practice</strong></p>
-<p>Here's the most striking evidence. Compare the scope of practice for Electronics Engineers in RA 9292 with the scope for Computer Engineers in HB 3845:</p>
-<blockquote>
-<p><strong>RA 9292, Section 5(a) - ECE Scope:</strong>
-"application of engineering sciences and/or principles to investigation, analysis, synthesis, planning, design, specification, research and development, provision, procurement, marketing and sales, manufacture and production, construction and installation, tests/measurements/control, operation, repair, servicing, technical support and maintenance of <strong>electronic components, devices, products, apparatus, instruments, equipment, systems, networks, operations and processes</strong> in the fields of electronics, including communications and/or telecommunications, information and communications technology (ICT), computers and their networking and hardware/firmware/software development and applications..."</p>
-<p><strong>HB 3845, Section 3(c) - CpE Scope:</strong>
-"any work or activity relating to the application of engineering sciences and/or principles to investigation, analysis, synthesis, planning, design, specification, research and development, provision, procurement, marketing and sales, manufacture and production, construction and installation, tests/measurements/control, operation, repair, servicing, technical support and maintenance of <strong>computer and all associated devices, products, apparatus, instruments, equipment, systems, networks, operations and processes</strong> including information and communications technology (ICT), computers networks, firmware, software development and applications..."</p>
-</blockquote>
-<p>The only difference is the highlighted substitution: "electronic components, devices, products" becomes "computer and all associated devices, products." The rest is identical. Even the catch-all "all other related and convergent fields" is preserved.</p>
-<h2>The scope nitpick: what's actually different?</h2>
-<p>Let's dissect the scope of practice provisions in detail.</p>
-<p><strong>RA 9292, Section 5(a) - Electronics Engineer Scope:</strong>
-"application of engineering sciences and/or principles to the investigation, analysis, synthesis, planning, design, specification, research and development, provision, procurement, marketing and sales, manufacture and production, construction and installation, tests/measurements/control, operation, repair, servicing, technical support and maintenance of <strong>electronic components, devices, products, apparatus, instruments, equipment, systems, networks, operations and processes</strong> in the fields of electronics, including communications and/or telecommunications, <strong>information and communications technology (ICT), computers and their networking and hardware/firmware/software development and applications</strong>, broadcast/broadcasting, cable and wireless television, consumer and industrial electronics, electro-optics/photonics/opto-electronics, electro-magnetics, avionics, aerospace, navigational and military applications, medical electronics, robotics, cybernetics, biometrics and all other related and convergent fields"</p>
-<p><strong>HB 3845, Section 3(c) - Computer Engineer Scope:</strong>
-"application of engineering sciences and/or principles to the investigation, analysis, synthesis, planning, design, specification, research and development, provision, procurement, marketing and sales, manufacture and production, construction and installation, tests/measurements/control, operation, repair, servicing, technical support and maintenance of <strong>computer and all associated devices, products, apparatus, instruments, equipment, systems, networks, operations and processes</strong> including <strong>information and communications technology (ICT), computers networks, firmware, software development and applications</strong>, biomedical electronics, robotics, cybernetics, biometrics, embedded system, microelectronics, FPGA, and all other related and convergent fields"</p>
-<p>The differences are minimal:</p>
-<ol>
-<li>
-<p><strong>"electronic components, devices, products" → "computer and all associated devices, products"</strong> - The ECE scope already includes computers. This substitution doesn't expand CPE scope beyond what ECE already covers.</p>
-</li>
-<li>
-<p><strong>Added fields in CPE scope:</strong> biomedical electronics, embedded system, microelectronics, FPGA - These are not new to computer engineering. Medical electronics (biomedical electronics) is already in the ECE scope. Microelectronics and FPGA are subfields of electronics that ECEs already practice. Embedded systems are electronics that use computers - already covered.</p>
-</li>
-</ol>
-<p>More importantly, these are all part of the standard Electronics Engineering curriculum in the Philippines. I took courses in all of these as an ECE student. The Computer Science curriculum includes different content - algorithms, data structures, software engineering. If we're going to create a distinct Computer Engineering profession, we first need to delineate what makes it different academically. The Commission on Higher Education (CHED), along with other private and state program accreditation bodies, must align the curriculum with the scope of practice before we attempt a professional split. Otherwise, we'll have chaos: professionals regulated under different laws but trained in the same programs, with no clear way to know which license applies to which work. This is a recipe for piles of litigation from both sides.</p>
-<ol start="3">
-<li>
-<p><strong>Removed from CPE scope:</strong> communications, telecommunications, broadcast/broadcasting, cable and wireless television, consumer and industrial electronics, electro-optics/photonics/opto-electronics, electro-magnetics, avionics, aerospace, navigational and military applications - The CPE bill removed these from its scope, presumably because they're "electronics" not "computers." But this creates a gap: if a computer is used in avionics or aerospace, who regulates it? The CPE or the ECE? The bill doesn't say.</p>
-</li>
-<li>
-<p><strong>The catch-all "all other related and convergent fields"</strong> - Both scopes end with this. This means any work that could be argued as "related and convergent" falls within both professions' scopes. The CPE bill didn't even try to narrow this.</p>
-</li>
-</ol>
-<p>The bottom line: the CPE scope is not distinct from the ECE scope. It's a subset with different boundaries drawn around the same work. The bill's authors drew arbitrary lines between "electronic" and "computer" without recognizing that modern electronics is computers and modern computers are electronics.</p>
-<h3>Why this matters</h3>
-<p>The scope of practice defined in HB 3845 is counterintuitive and counterproductive. It takes scope from the ECE law - "computers and their networking and hardware/firmware/software development" - and transfers it to the new CPE profession. But this creates a paradox: the ECE law already covers this scope. The ECE exam already includes computers and ICT as required subjects. The ECE board already regulates this work.</p>
-<p>What HB 3845 does is create two professions with overlapping scopes. This is not a split - it's a confusion. And confusion in professional regulation leads to inefficiency, litigation, and ultimately, a weaker profession for everyone.</p>
-<h2>The tiered profession system is confusing</h2>
-<p>HB 3845 creates four distinct professional levels: Computer Technician (CpTn), Computer Engineering Technologist (CpET), Computer Engineer (RCpE), and Professional Computer Engineer (PCpE). But the distinctions between them are unclear.</p>
-<p>Compare this to the ECE law, which has a clear progression: Electronics Technician (ECT), Electronics Engineer (ECE), and Professional Electronics Engineer (PECE). Each level has distinct qualifications and scope.</p>
-<p>The CPE bill's tiering seems arbitrary. What exactly distinguishes a "Computer Technician" from a "Computer Engineering Technologist"? The bill doesn't say. And what's the difference between a "Computer Engineer" and a "Professional Computer Engineer"? The bill says the latter can provide "consulting services" - but that's it. That's the only difference.</p>
-<p>This is another example of the copy-paste approach: the bill copied the four-tier structure from the ASEAN Engineering Register (AER) framework without thinking about whether it makes sense for computer engineering specifically. The AER system exists for international mobility of engineers across ASEAN countries - but the Philippines already has its own tiered system that works fine for ECE. Why create a new one for CPE?</p>
-<h2>An identity crisis in committee</h2>
-<p>The sponsors and proponents of the Computer Engineering Act seem to be suffering from an identity crisis - they want computer engineering to be recognized as a distinct profession, but they can't articulate what makes it distinct. They're so focused on getting licensure that they've forgotten to ask the fundamental question: what is the practice of computer engineering that isn't already covered by existing laws?</p>
-<p>They're trying to create a new profession by copy-pasting an old one, hoping that the mere act of creating a new board and new licensure exams will somehow magically establish computer engineering as a legitimate, separate field. But it won't. Without a clear, distinct scope of practice, computer engineering will remain a subset of electronics engineering, and the new profession will be redundant.</p>
-<p>This is why the bill has been stuck in committee for four years. Committee members see the copy-paste nature of the legislation. They see that it doesn't address the unique challenges and realities of modern computer engineering work. They see that it would create confusion, not clarity.</p>
-<h2>A bill that died twice</h2>
-<p>The proposed Computer Engineering Act isn't new. House Bill No. 4833, filed in the 20th Congress in September 2025 by Rep. Jonathan Keith T. Flores, is a refiling of the same bill from the 18th Congress. The original HB 8743 was filed in February 2021 by Rep. Rufus Rodriguez and referred to the Committee on Civil Service and Professional Regulation in February 2021. It never moved past committee - no second reading, no approval, no action. When the 18th Congress adjourned in June 2022, the bill died.</p>
-<p>Now HB 4833 is sitting in the same committee, pending since September 26, 2025. The exact same bill text, word-for-word identical, has now been stalled for over four years across two Congresses.</p>
-<p>Why? Because the bill is fundamentally flawed. It's not a thoughtful, considered piece of legislation. It's a copy-paste of an existing law that doesn't make sense for the modern world of computer engineering.</p>
-<h2>A more thoughtful approach</h2>
-<p>Instead of copying the ECE law, HB 4833 should have focused on what makes computer engineering unique in the modern era: its role in the Fourth Industrial Revolution.</p>
-<p>We are not just building hardware anymore. We are building intelligent systems. We are designing AI models, machine learning algorithms, and autonomous systems that will transform every aspect of our lives. Computer engineers are at the forefront of this transformation.</p>
-<p>A modern Computer Engineering Act should recognize this reality. It should:</p>
-<ol>
-<li><strong>Define computer engineering as a distinct profession</strong> with its own scope, not as a subset of electronics engineering.</li>
-<li><strong>Include provisions for software engineering standards</strong> (IEEE/ACM standards, software testing, quality assurance, version control).</li>
-<li><strong>Address the digital nature of modern CPE work</strong> (digital signatures, cloud services, SaaS, mobile apps, AI/ML development).</li>
-<li><strong>Create a coherent tier system</strong> with clear distinctions between Technician, Technologist, Engineer, and Professional Engineer levels.</li>
-<li><strong>Establish actual penalties</strong> for violations (not just copy the ECE law's penalty provisions).</li>
-<li><strong>Define and establish the integrated professional organization</strong> (ICpEP) with clear governance and accountability.</li>
-<li><strong>Include provisions for continuing professional education</strong> specific to the rapidly evolving CPE field.</li>
-<li><strong>Address the unique challenges of the CPE profession</strong> (open source licensing, intellectual property, cybersecurity, ethical AI).</li>
-</ol>
-<h3>The future of CPE in the Philippines</h3>
-<p>As an Electronics Engineer, I'm not opposed to recognizing computer engineering as a distinct profession. In fact, I think it's long overdue. The Philippines has produced some of the world's finest computer engineers, and they deserve proper recognition.</p>
-<p>But recognition should be based on substance, not on copy-pasting an existing law. It should reflect the actual nature of the work being done, not just the historical legacy of how we used to regulate these professions.</p>
-<p>The Computer Engineering Act should be a forward-looking piece of legislation that prepares the Philippines for the future, not a backward-looking copy of a law written 20 years ago.</p>
-<p>Let's do this right. Let's create a profession that is distinct, recognized, and truly represents the cutting-edge work being done by Filipino computer engineers around the world.</p>
-<h2>Sources</h2>
-<ul>
-<li>House Bill No. 4833 - The Computer Engineering Act (20th Congress refiling): <a href="https://docs.congress.hrep.online/legisdocs/basic_20/HB04833.pdf">https://docs.congress.hrep.online/legisdocs/basic_20/HB04833.pdf</a></li>
-<li>House Bill No. 3845 - The Computer Engineering Act: <a href="https://docs.congress.hrep.online/legisdocs/basic_20/HB03845.pdf">https://docs.congress.hrep.online/legisdocs/basic_20/HB03845.pdf</a></li>
-<li>House Bill No. 8743 - AN ACT PROVIDING FOR A MORE RESPONSIVE AND COMPREHENSIVE REGULATION FOR THE REGISTRATION, LICENSING AND PRACTICE OF PROFESSIONAL COMPUTER ENGINEERS, REGISTERED COMPUTER ENGINEERS, COMPUTER ENGINEERING TECHNOLOGISTS, AND COMPUTER TECHNICIANS: <a href="https://ldr.senate.gov.ph/bills/house-bill-no-8743-18th-congress-republic">https://ldr.senate.gov.ph/bills/house-bill-no-8743-18th-congress-republic</a></li>
-<li>Republic Act No. 9292 - Electronics Engineering Law of 2004: <a href="https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1514">https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1514</a></li>
-<li>Republic Act No. 5734 - Electronics and Communications Engineering Act of 1969: <a href="https://lawphil.net/statutes/repacts/ra1969/ra_5734_1969.html">https://lawphil.net/statutes/repacts/ra1969/ra_5734_1969.html</a></li>
 </ul>]]></content:encoded>
     </item>
   </channel>

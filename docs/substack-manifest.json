@@ -3,8 +3,20 @@
   "generator": "scripts/substack_export.py",
   "base_url": "https://kvallespin.github.io",
   "post_count": 13,
-  "feed_sha256": "e7fae95a0d54706dc2865e0cffd57ca81d45a48b6a5e95bb4659526346f14240",
+  "feed_sha256": "f167f70b3382c466d7fefd72be3e6dc0ae258dea52e0d6b34e8636ab8b99e8df",
   "posts": [
+    {
+      "source_path": "content/engineering/beyond-copy-paste-computer-engineering.md",
+      "canonical_url": "https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering",
+      "sha256": "b52c8a95c4e62fefa854e0d23c581a5de86f72ab8ef0d167e9d43a8dfcc6e140",
+      "date": "2026-09-05",
+      "title": "Beyond Copy-Paste: Reimagining Philippine Computer Engineering",
+      "description": "An Electronics Engineer examines the proposed Computer Engineering Act and its copy-paste legislative approach.",
+      "section": "engineering",
+      "slug": "beyond-copy-paste-computer-engineering",
+      "html_sha256": "d278968c89abddc8e552b397deed6455bc046b69c49cde1d056e11d834da47d8",
+      "image_count": 0
+    },
     {
       "source_path": "content/data-science/ai-slop-ste.md",
       "canonical_url": "https://kvallespin.github.io/data-science/ai-slop-ste",
@@ -148,18 +160,6 @@
       "slug": "ten-weeks-inside-aviation-finance",
       "html_sha256": "d13d05c0709739ff3878686182451b04fbb88bb01248f75192c47f95ddb72290",
       "image_count": 6
-    },
-    {
-      "source_path": "content/engineering/beyond-copy-paste-computer-engineering.md",
-      "canonical_url": "https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering",
-      "sha256": "66fa45f7f5e426f5df25fccf9e81d1779a4cf6f28723f4d7aa6496dd53d1d12f",
-      "date": "2025-09-28",
-      "title": "Beyond Copy-Paste: Reimagining Philippine Computer Engineering",
-      "description": "An Electronics Engineer examines the proposed Computer Engineering Act and its copy-paste legislative approach.",
-      "section": "engineering",
-      "slug": "beyond-copy-paste-computer-engineering",
-      "html_sha256": "d278968c89abddc8e552b397deed6455bc046b69c49cde1d056e11d834da47d8",
-      "image_count": 0
     }
   ]
 }
