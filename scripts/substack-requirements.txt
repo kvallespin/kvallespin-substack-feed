@@ -1,0 +1,15 @@
+# Runtime and test dependencies for scripts/substack_export.py
+#
+#   python3 -m venv .venv
+#   .venv/bin/pip install -r scripts/substack-requirements.txt
+#   .venv/bin/python scripts/substack_export.py --dry-run
+#   .venv/bin/python -m pytest tests/test_substack_export.py
+
+# Safe YAML frontmatter parsing (yaml.safe_load only).
+PyYAML>=6.0,<7
+
+# Markdown -> HTML conversion that preserves inline HTML blocks.
+Markdown>=3.5,<4
+
+# Test runner.
+pytest>=8.0

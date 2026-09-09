@@ -1,0 +1,39 @@
+diff --git a/content/data-science/ai-slop-ste.md b/content/data-science/ai-slop-ste.md
+index 4a5d1aa..a2b51fd 100644
+--- a/content/data-science/ai-slop-ste.md
++++ b/content/data-science/ai-slop-ste.md
+@@ -6,11 +6,12 @@ tags:
+   - data-science
+   - ai
+   - writing
++created: 2026-09-01
+ ---
+
+ # The cure for AI slop is a boring 40-year-old manual
+
+-<p><img src="assets/ai-slop-ste/ai-slop-ste-main-banner.png" alt="An aircraft maintenance manual beside a laptop checking AI-generated technical writing for clarity and consistency"></p>
++<p><img src="../assets/ai-slop-ste/ai-slop-ste-main-banner.png" alt="An aircraft maintenance manual beside a laptop checking AI-generated technical writing for clarity and consistency"></p>
+ <p class='caption'><em>Banning AI writing tells treats the symptoms. A checkable writing system fixes the structure.</em></p>
+
+ If you have worked with Large Language Models lately, you have probably tried the usual cure for bad AI writing: the ban list.
+@@ -35,7 +36,7 @@ These are mechanical habits. That matters. Mechanical habits can be named, check
+
+ Aviation solved a version of this problem decades ago through Simplified Technical English. The goal was not elegant prose. The goal was clarity under pressure. Maintenance instructions had to be clear enough for non-native English-speaking mechanics to understand without guessing.
+
+-<p><img src="assets/ai-slop-ste/asd-ste100-ai-white-paper-banner.png" alt="ASD-STE100 Simplified Technical English and Artificial Intelligence white paper banner"></p>
++<p><img src="../assets/ai-slop-ste/asd-ste100-ai-white-paper-banner.png" alt="ASD-STE100 Simplified Technical English and Artificial Intelligence white paper banner"></p>
+ <p class='caption'><em><a href="https://www.asd-ste100.org/assets/files/WhitePaper-ASD-STE100_and_AI.pdf">ASD-STE100 Simplified Technical English and Artificial Intelligence (AI), STEMG white paper, June 2026</a></em></p>
+
+ The rules are blunt: use one term for one thing, prefer active voice, keep sentences short, avoid phrasal verbs, and use verbs for actions. Do not hide meaning inside official-sounding language.
+diff --git a/content/data-science/redesigning-the-redesign-nobody-asked-for.md b/content/data-science/redesigning-the-redesign-nobody-asked-for.md
+index fc0e668..6a9b9c7 100644
+--- a/content/data-science/redesigning-the-redesign-nobody-asked-for.md
++++ b/content/data-science/redesigning-the-redesign-nobody-asked-for.md
+@@ -4,6 +4,7 @@ tags:
+   - data-science
+   - data-visualization
+   - mba/aim
++created: 2026-06-26
+ ---
+
+ # Redesigning the Redesign Nobody Asked For
