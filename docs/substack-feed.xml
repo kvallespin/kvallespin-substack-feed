@@ -77,6 +77,87 @@
 <ul class="sources"><li><strong>Wikipedia: Signs of AI writing</strong><br><a href="https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing">https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing</a></li><li><strong>ASD-STE100 Simplified Technical English and Artificial Intelligence (AI), STEMG white paper, June 2026</strong><br><a href="https://www.asd-ste100.org/assets/files/WhitePaper-ASD-STE100_and_AI.pdf">https://www.asd-ste100.org/assets/files/WhitePaper-ASD-STE100_and_AI.pdf</a></li><li><strong>ASD-STE100 Simplified Technical English</strong><br><a href="https://www.asd-ste100.org/">https://www.asd-ste100.org/</a></li></ul>]]></content:encoded>
     </item>
     <item>
+      <title>Beyond copy-paste: reimagining Philippine computer engineering</title>
+      <link>https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering</link>
+      <guid isPermaLink="true">https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+      <dc:creator><![CDATA[Kenneth Vallespin]]></dc:creator>
+      <description><![CDATA[An Electronics Engineer critiques the proposed Computer Engineering Act for its copy-paste approach to legislation.]]></description>
+      <content:encoded><![CDATA[<p>Lessons from 1969 and what HB 4833 gets wrong</p>
+<p><img alt="Computer Science Vs Computer Engineering" src="https://habib.edu.pk/wp-content/uploads/2024/08/cs-vs-ce-1.jpg" /></p>
+<p><em>Image: Computer Science Vs Computer Engineering: Make Informed Decisions!, Habib University</em></p>
+<p><strong><em>Disclaimer:</em></strong> <em>I use AI as a writing partner to refine my prose and structure, but the ideas, analysis, and first drafts originate entirely with me.</em></p>
+<p><strong><em>Update (September 6, 2026):</em></strong> <em>The chairman of the PRC Board of Electronics Engineering, Hon. Ret. Cdre. Engr. Vicente Cejoco, reached out to me in private and shared an overview of the board's proactive strategy for addressing this issue head-on with the CPE side and with the concerned members of congress. I'm grateful for the insight and reassured that the board is actively engaged in this matter.</em></p>
+<p>I've been an Electronics and Communications Engineer for a long time now. Long enough to remember when the profession looked different. Long enough to see how we got here.</p>
+<p>When I first started practicing, the engineering landscape in the Philippines had already been through one major split. And that history is the key to understanding why I think the proposed Computer Engineering Act is headed in the wrong direction.</p>
+<p>Let me explain what I mean.</p>
+<h2>How we got here</h2>
+<p>There was a time when everything electrical lived under one roof. Power systems. Radio. The whole shebang. Electrical Engineering swallowed it all.</p>
+<p>Then the technology grew up, and it outgrew the label.</p>
+<p>In 1969, President Marcos (the Elder) signed RA 5734. The Electronics and Communications Engineering Act. It carved ECE out of EE and gave us our own board, our own exams, our own professional identity. The Institute of Electronics and Communications Engineers of the Philippines had been pushing for this since 1950.</p>
+<p>And it made sense. The work had diverged. An EE was designing power grids. An ECE was working with semiconductor devices and signal processing. They were different jobs requiring different expertise, even if both professions still touched hardware.</p>
+<p>The bill also showed something I wish today's legislators would notice. It included a grandfather clause. Thousands of people were already working in telecommunications and radio without a formal ECE certificate. The law let experienced practitioners get licensed based on their track record. Three years with a degree. Five years with an associate degree or a government radio operator's license. Practical. Respectful of real-world experience.</p>
+<p>That's how you handle a professional split with dignity.</p>
+<h2>The current proposal</h2>
+<p>Now we're talking about splitting Computer Engineering off. House Bill 3845, refiled as HB 4833, is sitting in the Committee on Civil Service and Professional Regulation. It's been there since September 2025. Before that, the identical bill sat in the same committee from February 2021 to June 2022 under the 18th Congress.</p>
+<p>Four years. Two Congresses. Zero movement.</p>
+<p>I've read the bill carefully. Let me tell you what I found.</p>
+<p>It's a copy-paste of RA 9292, the Electronics Engineering Law. Not inspired by it. Not adapted from it. Copied. Word for word, section by section, with one modification.</p>
+<p>They replaced "electronic" with "computer."</p>
+<h2>The proof</h2>
+<p>Look at the definitions.</p>
+<p>RA 9292 says a computer is an "electronic device capable of accepting data, programs and/or instructions, executing programs/instructions to process data and presenting results."</p>
+<p>HB 3845 says a computer is "any of a variety of electronic devices that is capable of accepting data, programs and/or instructions, executing the programs and/or instructions to process the data and presenting the results."</p>
+<p>Identical. Except the new bill adds "any of a variety of," which is filler language that suggests whoever drafted it didn't even understand what they were copying. And this is a 1990s definition of a computer. We're in 2026.</p>
+<p>The ICT definition is the same. The industrial plant definition is the same. Even the slash separators and verb lists match. "Installed/used/sold/maintained/assembled/manufactured/operated." Same in both laws. Just swap out the adjective and you're done.</p>
+<p>The scope of practice is where it gets really interesting.</p>
+<p>The ECE scope in RA 9292 already covers "computers and their networking and hardware/firmware/software development and applications." It's right there in the text. The CPE bill takes that exact language and moves it to the new profession. Then it adds a few subfields: biomedical electronics, embedded systems, microelectronics, FPGA.</p>
+<p>But those aren't new to computer engineering. I took courses in all of those as an ECE student. They're part of the standard ECE curriculum. Meanwhile, the CPE bill strips out telecommunications, avionics, aerospace, broadcast work, consumer electronics. Fields where computers are absolutely central.</p>
+<p>So we end up with two professions whose scopes overlap but also leave gaps. If a computer is used in an aircraft, who regulates it? The bill doesn't say. Both scopes end with "all other related and convergent fields," which is a legal invitation to litigation.</p>
+<h2>The tier problem</h2>
+<p>HB 3845 creates four levels. Computer Technician. Computer Engineering Technologist. Computer Engineer. Professional Computer Engineer.</p>
+<p>Compare that to the ECE system: Technician, Engineer, Professional Engineer. Three tiers. Clear progression. Clear distinctions.</p>
+<p>What separates a Computer Technician from a Computer Engineering Technologist? The bill doesn't say. What separates a Computer Engineer from a Professional Computer Engineer? Consulting services. That's the only difference. That's it.</p>
+<p>This four-tier structure came from the ASEAN Engineering Register framework. It exists to facilitate international mobility. The Philippines already has its own system that works. Why invent a new one that's harder to understand and harder to enforce?</p>
+<h2>The identity crisis</h2>
+<p>Here's what really bothers me about this bill.</p>
+<p>The sponsors want computer engineering recognized as a distinct profession. Fine. I agree with that. Filipino computer engineers are among the best in the world. They deserve formal recognition.</p>
+<p>But they can't define what makes the profession distinct. They're so focused on getting licensure that they never stopped to ask what exactly a CPE does that an ECE or an IT professional doesn't.</p>
+<p>The bill tries to solve an identity problem with bureaucracy. Create a new board. Write new exams. Issue new licenses. And somehow that will make computer engineering real.</p>
+<p>It won't.</p>
+<p>Without a clear, distinct scope of practice, computer engineering remains a subset of electronics engineering. The new profession will be redundant. And redundant professions don't protect the public. They just create paperwork.</p>
+<p>This is why the bill keeps dying in committee. The people reading it see what I see. They see a lazy piece of legislation that would create confusion instead of clarity. And confusion in professional regulation is dangerous.</p>
+<h2>What we should do instead</h2>
+<p>A modern Computer Engineering Act should look forward, not backward.</p>
+<p>We're not building hardware anymore. Not just hardware. We're building intelligent systems. AI models. Machine learning algorithms. Autonomous systems. Software that runs in the cloud. Applications on a billion phones.</p>
+<p>The law should reflect that reality.</p>
+<ul>
+<li>It should define a genuinely distinct scope for CPE that doesn't overlap with ECE.</li>
+<li>It should incorporate software engineering standards like those from IEEE and ACM.</li>
+<li>It should address digital work: cloud services, SaaS, mobile development, AI and machine learning.</li>
+<li>It should establish clear, meaningful differences between the professional tiers.</li>
+<li>Real penalties for violations, not just copied penalty provisions.</li>
+<li>Continuing education requirements for a field that changes every six months.</li>
+<li>Provisions for the unique challenges CPEs face: open source licensing, intellectual property, cybersecurity, ethical AI.</li>
+</ul>
+<p>It should be written by people who understand what computer engineers actually do today, not by committee staff who found an old law and ran a find-and-replace.</p>
+<h2>A personal note</h2>
+<p>I'm an ECE. I have a vested interest in how this plays out. If the CPE scope is drawn too broadly, it eats into my profession. That's a natural tension.</p>
+<p>But I'm not writing this from self-interest (I've been in management and finance for a long time in my career, to even fight this tooth and nail to its conclusion; and indeed, make big fuss about it). I'm writing it because bad legislation hurts everyone. It hurts the public who can't figure out which engineer to hire. It hurts young graduates who don't know which program to enroll in. It hurts the profession overall.</p>
+<p>The Philippines did it right in 1969. We split ECE from EE because the work had genuinely diverged. We should do it right again for CPE. But "again" doesn't mean "the same way." It means "as well as we did before."</p>
+<p>Let's write a law that's worthy of the profession it's trying to serve.</p>
+<h2>Sources</h2>
+<ul>
+<li>House Bill No. 4833 - The Computer Engineering Act (20th Congress refiling): <a href="https://docs.congress.hrep.online/legisdocs/basic_20/HB04833.pdf">https://docs.congress.hrep.online/legisdocs/basic_20/HB04833.pdf</a></li>
+<li>House Bill No. 3845 - The Computer Engineering Act: <a href="https://docs.congress.hrep.online/legisdocs/basic_20/HB03845.pdf">https://docs.congress.hrep.online/legisdocs/basic_20/HB03845.pdf</a></li>
+<li>House Bill No. 8743 - AN ACT PROVIDING FOR A MORE RESPONSIVE AND COMPREHENSIVE REGULATION FOR THE REGISTRATION, LICENSING AND PRACTICE OF PROFESSIONAL COMPUTER ENGINEERS, REGISTERED COMPUTER ENGINEERS, COMPUTER ENGINEERING TECHNOLOGISTS, AND COMPUTER TECHNICIANS: <a href="https://ldr.senate.gov.ph/bills/house-bill-no-8743-18th-congress-republic">https://ldr.senate.gov.ph/bills/house-bill-no-8743-18th-congress-republic</a></li>
+<li>Republic Act No. 9292 - Electronics Engineering Law of 2004: <a href="https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1514">https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1514</a></li>
+<li>Republic Act No. 5734 - Electronics and Communications Engineering Act of 1969: <a href="https://lawphil.net/statutes/repacts/ra1969/ra_5734_1969.html">https://lawphil.net/statutes/repacts/ra1969/ra_5734_1969.html</a></li>
+</ul>
+<hr />
+<p><em>The author is a registered Electronics Engineer in the Philippines. The views expressed are those of the author alone.</em></p>]]></content:encoded>
+    </item>
+    <item>
       <title>A hundred million tokens later</title>
       <link>https://kvallespin.github.io/data-science/a-hundred-million-tokens-later</link>
       <guid isPermaLink="true">https://kvallespin.github.io/data-science/a-hundred-million-tokens-later</guid>
@@ -2583,87 +2664,6 @@ Build with clarity. Document with intent.</p>
 <li><a href="https://www.bocaviation.com/">BOC Aviation</a></li>
 <li>KPMG, <em>Financial modelling: Aviation finance</em>, January 2016. <a href="https://assets.kpmg.com/content/dam/kpmg/pdf/2016/03/financial-modelling-for-aviation-jan-2016.pdf">PDF</a></li>
 </ul>]]></content:encoded>
-    </item>
-    <item>
-      <title>Beyond copy-paste: reimagining Philippine computer engineering</title>
-      <link>https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering</link>
-      <guid isPermaLink="true">https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering</guid>
-      <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
-      <dc:creator><![CDATA[Kenneth Vallespin]]></dc:creator>
-      <description><![CDATA[An Electronics Engineer critiques the proposed Computer Engineering Act for its copy-paste approach to legislation.]]></description>
-      <content:encoded><![CDATA[<p>Lessons from 1969 and what HB 4833 gets wrong</p>
-<p><img alt="Computer Science Vs Computer Engineering" src="https://habib.edu.pk/wp-content/uploads/2024/08/cs-vs-ce-1.jpg" /></p>
-<p><em>Image: Computer Science Vs Computer Engineering: Make Informed Decisions!, Habib University</em></p>
-<p><strong><em>Disclaimer:</em></strong> <em>I use AI as a writing partner to refine my prose and structure, but the ideas, analysis, and first drafts originate entirely with me.</em></p>
-<p><strong><em>Update (September 6, 2026):</em></strong> <em>The chairman of the PRC Board of Electronics Engineering, Hon. Ret. Cdre. Engr. Vicente Cejoco, reached out to me in private and shared an overview of the board's proactive strategy for addressing this issue head-on with the CPE side and with the concerned members of congress. I'm grateful for the insight and reassured that the board is actively engaged in this matter.</em></p>
-<p>I've been an Electronics and Communications Engineer for a long time now. Long enough to remember when the profession looked different. Long enough to see how we got here.</p>
-<p>When I first started practicing, the engineering landscape in the Philippines had already been through one major split. And that history is the key to understanding why I think the proposed Computer Engineering Act is headed in the wrong direction.</p>
-<p>Let me explain what I mean.</p>
-<h2>How we got here</h2>
-<p>There was a time when everything electrical lived under one roof. Power systems. Radio. The whole shebang. Electrical Engineering swallowed it all.</p>
-<p>Then the technology grew up, and it outgrew the label.</p>
-<p>In 1969, President Marcos (the Elder) signed RA 5734. The Electronics and Communications Engineering Act. It carved ECE out of EE and gave us our own board, our own exams, our own professional identity. The Institute of Electronics and Communications Engineers of the Philippines had been pushing for this since 1950.</p>
-<p>And it made sense. The work had diverged. An EE was designing power grids. An ECE was working with semiconductor devices and signal processing. They were different jobs requiring different expertise, even if both professions still touched hardware.</p>
-<p>The bill also showed something I wish today's legislators would notice. It included a grandfather clause. Thousands of people were already working in telecommunications and radio without a formal ECE certificate. The law let experienced practitioners get licensed based on their track record. Three years with a degree. Five years with an associate degree or a government radio operator's license. Practical. Respectful of real-world experience.</p>
-<p>That's how you handle a professional split with dignity.</p>
-<h2>The current proposal</h2>
-<p>Now we're talking about splitting Computer Engineering off. House Bill 3845, refiled as HB 4833, is sitting in the Committee on Civil Service and Professional Regulation. It's been there since September 2025. Before that, the identical bill sat in the same committee from February 2021 to June 2022 under the 18th Congress.</p>
-<p>Four years. Two Congresses. Zero movement.</p>
-<p>I've read the bill carefully. Let me tell you what I found.</p>
-<p>It's a copy-paste of RA 9292, the Electronics Engineering Law. Not inspired by it. Not adapted from it. Copied. Word for word, section by section, with one modification.</p>
-<p>They replaced "electronic" with "computer."</p>
-<h2>The proof</h2>
-<p>Look at the definitions.</p>
-<p>RA 9292 says a computer is an "electronic device capable of accepting data, programs and/or instructions, executing programs/instructions to process data and presenting results."</p>
-<p>HB 3845 says a computer is "any of a variety of electronic devices that is capable of accepting data, programs and/or instructions, executing the programs and/or instructions to process the data and presenting the results."</p>
-<p>Identical. Except the new bill adds "any of a variety of," which is filler language that suggests whoever drafted it didn't even understand what they were copying. And this is a 1990s definition of a computer. We're in 2026.</p>
-<p>The ICT definition is the same. The industrial plant definition is the same. Even the slash separators and verb lists match. "Installed/used/sold/maintained/assembled/manufactured/operated." Same in both laws. Just swap out the adjective and you're done.</p>
-<p>The scope of practice is where it gets really interesting.</p>
-<p>The ECE scope in RA 9292 already covers "computers and their networking and hardware/firmware/software development and applications." It's right there in the text. The CPE bill takes that exact language and moves it to the new profession. Then it adds a few subfields: biomedical electronics, embedded systems, microelectronics, FPGA.</p>
-<p>But those aren't new to computer engineering. I took courses in all of those as an ECE student. They're part of the standard ECE curriculum. Meanwhile, the CPE bill strips out telecommunications, avionics, aerospace, broadcast work, consumer electronics. Fields where computers are absolutely central.</p>
-<p>So we end up with two professions whose scopes overlap but also leave gaps. If a computer is used in an aircraft, who regulates it? The bill doesn't say. Both scopes end with "all other related and convergent fields," which is a legal invitation to litigation.</p>
-<h2>The tier problem</h2>
-<p>HB 3845 creates four levels. Computer Technician. Computer Engineering Technologist. Computer Engineer. Professional Computer Engineer.</p>
-<p>Compare that to the ECE system: Technician, Engineer, Professional Engineer. Three tiers. Clear progression. Clear distinctions.</p>
-<p>What separates a Computer Technician from a Computer Engineering Technologist? The bill doesn't say. What separates a Computer Engineer from a Professional Computer Engineer? Consulting services. That's the only difference. That's it.</p>
-<p>This four-tier structure came from the ASEAN Engineering Register framework. It exists to facilitate international mobility. The Philippines already has its own system that works. Why invent a new one that's harder to understand and harder to enforce?</p>
-<h2>The identity crisis</h2>
-<p>Here's what really bothers me about this bill.</p>
-<p>The sponsors want computer engineering recognized as a distinct profession. Fine. I agree with that. Filipino computer engineers are among the best in the world. They deserve formal recognition.</p>
-<p>But they can't define what makes the profession distinct. They're so focused on getting licensure that they never stopped to ask what exactly a CPE does that an ECE or an IT professional doesn't.</p>
-<p>The bill tries to solve an identity problem with bureaucracy. Create a new board. Write new exams. Issue new licenses. And somehow that will make computer engineering real.</p>
-<p>It won't.</p>
-<p>Without a clear, distinct scope of practice, computer engineering remains a subset of electronics engineering. The new profession will be redundant. And redundant professions don't protect the public. They just create paperwork.</p>
-<p>This is why the bill keeps dying in committee. The people reading it see what I see. They see a lazy piece of legislation that would create confusion instead of clarity. And confusion in professional regulation is dangerous.</p>
-<h2>What we should do instead</h2>
-<p>A modern Computer Engineering Act should look forward, not backward.</p>
-<p>We're not building hardware anymore. Not just hardware. We're building intelligent systems. AI models. Machine learning algorithms. Autonomous systems. Software that runs in the cloud. Applications on a billion phones.</p>
-<p>The law should reflect that reality.</p>
-<ul>
-<li>It should define a genuinely distinct scope for CPE that doesn't overlap with ECE.</li>
-<li>It should incorporate software engineering standards like those from IEEE and ACM.</li>
-<li>It should address digital work: cloud services, SaaS, mobile development, AI and machine learning.</li>
-<li>It should establish clear, meaningful differences between the professional tiers.</li>
-<li>Real penalties for violations, not just copied penalty provisions.</li>
-<li>Continuing education requirements for a field that changes every six months.</li>
-<li>Provisions for the unique challenges CPEs face: open source licensing, intellectual property, cybersecurity, ethical AI.</li>
-</ul>
-<p>It should be written by people who understand what computer engineers actually do today, not by committee staff who found an old law and ran a find-and-replace.</p>
-<h2>A personal note</h2>
-<p>I'm an ECE. I have a vested interest in how this plays out. If the CPE scope is drawn too broadly, it eats into my profession. That's a natural tension.</p>
-<p>But I'm not writing this from self-interest (I've been in management and finance for a long time in my career, to even fight this tooth and nail to its conclusion; and indeed, make big fuss about it). I'm writing it because bad legislation hurts everyone. It hurts the public who can't figure out which engineer to hire. It hurts young graduates who don't know which program to enroll in. It hurts the profession overall.</p>
-<p>The Philippines did it right in 1969. We split ECE from EE because the work had genuinely diverged. We should do it right again for CPE. But "again" doesn't mean "the same way." It means "as well as we did before."</p>
-<p>Let's write a law that's worthy of the profession it's trying to serve.</p>
-<h2>Sources</h2>
-<ul>
-<li>House Bill No. 4833 - The Computer Engineering Act (20th Congress refiling): <a href="https://docs.congress.hrep.online/legisdocs/basic_20/HB04833.pdf">https://docs.congress.hrep.online/legisdocs/basic_20/HB04833.pdf</a></li>
-<li>House Bill No. 3845 - The Computer Engineering Act: <a href="https://docs.congress.hrep.online/legisdocs/basic_20/HB03845.pdf">https://docs.congress.hrep.online/legisdocs/basic_20/HB03845.pdf</a></li>
-<li>House Bill No. 8743 - AN ACT PROVIDING FOR A MORE RESPONSIVE AND COMPREHENSIVE REGULATION FOR THE REGISTRATION, LICENSING AND PRACTICE OF PROFESSIONAL COMPUTER ENGINEERS, REGISTERED COMPUTER ENGINEERS, COMPUTER ENGINEERING TECHNOLOGISTS, AND COMPUTER TECHNICIANS: <a href="https://ldr.senate.gov.ph/bills/house-bill-no-8743-18th-congress-republic">https://ldr.senate.gov.ph/bills/house-bill-no-8743-18th-congress-republic</a></li>
-<li>Republic Act No. 9292 - Electronics Engineering Law of 2004: <a href="https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1514">https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/1514</a></li>
-<li>Republic Act No. 5734 - Electronics and Communications Engineering Act of 1969: <a href="https://lawphil.net/statutes/repacts/ra1969/ra_5734_1969.html">https://lawphil.net/statutes/repacts/ra1969/ra_5734_1969.html</a></li>
-</ul>
-<hr />
-<p><em>The author is a registered Electronics Engineer in the Philippines. The views expressed are those of the author alone.</em></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

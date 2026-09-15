@@ -3,7 +3,7 @@
   "generator": "scripts/substack_export.py",
   "base_url": "https://kvallespin.github.io",
   "post_count": 13,
-  "feed_sha256": "977ebfa06f8a0af324b628ce1e607917efd2dd6a7e8883279825f0d864f62b07",
+  "feed_sha256": "5b114b7cd3aa0dfc0e5b2660726e73a686fdf4c081f2d0e19e0c51d5ad137907",
   "posts": [
     {
       "source_path": "content/data-science/ai-slop-ste.md",
@@ -16,6 +16,18 @@
       "slug": "ai-slop-ste",
       "html_sha256": "d688070a7f85f80ca87dfa4cebb7a2f8e86562662fa1008b191b32494c8c7d00",
       "image_count": 2
+    },
+    {
+      "source_path": "content/engineering/beyond-copy-paste-computer-engineering.md",
+      "canonical_url": "https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering",
+      "sha256": "9da90e8143e575253262902eaf96dae6f7020a845d5b0ba3f524634912410936",
+      "date": "2026-09-04",
+      "title": "Beyond copy-paste: reimagining Philippine computer engineering",
+      "description": "An Electronics Engineer critiques the proposed Computer Engineering Act for its copy-paste approach to legislation.",
+      "section": "engineering",
+      "slug": "beyond-copy-paste-computer-engineering",
+      "html_sha256": "1012752b224783bf10026fd89b4ff5bbe7c76874c96002461977fba3c82f3f67",
+      "image_count": 0
     },
     {
       "source_path": "content/data-science/a-hundred-million-tokens-later.md",
@@ -148,18 +160,6 @@
       "slug": "ten-weeks-inside-aviation-finance",
       "html_sha256": "6e5e461ebb27543f88c83fc16a4da209b965bb48ad91d253ad30aed18f6b084d",
       "image_count": 6
-    },
-    {
-      "source_path": "content/engineering/beyond-copy-paste-computer-engineering.md",
-      "canonical_url": "https://kvallespin.github.io/engineering/beyond-copy-paste-computer-engineering",
-      "sha256": "d55f5bab94d20b9d581aa0f57738bad89448753b180734d75c8bba0dbabdcd82",
-      "date": "2025-09-28",
-      "title": "Beyond copy-paste: reimagining Philippine computer engineering",
-      "description": "An Electronics Engineer critiques the proposed Computer Engineering Act for its copy-paste approach to legislation.",
-      "section": "engineering",
-      "slug": "beyond-copy-paste-computer-engineering",
-      "html_sha256": "1012752b224783bf10026fd89b4ff5bbe7c76874c96002461977fba3c82f3f67",
-      "image_count": 0
     }
   ]
 }
