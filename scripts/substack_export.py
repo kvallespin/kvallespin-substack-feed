@@ -427,11 +427,18 @@ def build_post(path: Path, content_dir: Path, base_url: str = DEFAULT_BASE_URL) 
     title = title.strip()
 
     if "created" not in meta or meta["created"] in (None, ""):
-        raise ExportError(f"{label}: frontmatter is missing 'created'")
-    try:
-        created = _coerce_date(meta["created"])
-    except ExportError as exc:
-        raise ExportError(f"{label}: {exc}") from exc
+        if "date" in meta and meta["date"] not in (None, ""):
+            try:
+                created = _coerce_date(meta["date"])
+            except ExportError as exc:
+                raise ExportError(f"{label}: {exc}") from exc
+        else:
+            raise ExportError(f"{label}: frontmatter is missing 'created' or 'date'")
+    else:
+        try:
+            created = _coerce_date(meta["created"])
+        except ExportError as exc:
+            raise ExportError(f"{label}: {exc}") from exc
 
     description = meta.get("description") or ""
     if not isinstance(description, str):
