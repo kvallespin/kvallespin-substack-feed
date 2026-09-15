@@ -1,4 +1,4 @@
-﻿name: Update Substack feed
+name: Update Substack feed
 
 on:
   workflow_dispatch:
@@ -32,7 +32,9 @@ jobs:
         shell: bash
         run: |
           patch="$GITHUB_WORKSPACE/overrides/blog-normalization.patch"
-          if git -C _source apply --check "$patch"; then
+          if [ ! -s "$patch" ]; then
+            echo "No normalizations to apply (empty patch)."
+          elif git -C _source apply --check "$patch"; then
             git -C _source apply "$patch"
           elif git -C _source apply --reverse --check "$patch"; then
             echo "Normalizations already exist upstream."
