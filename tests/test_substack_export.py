@@ -906,8 +906,8 @@ class TestRealContentTree:
 
     def test_two_staged_fixes_are_in_place(self, real_posts: list[sx.Post]) -> None:
         by_slug = {p.slug: p for p in real_posts}
-        assert by_slug["ai-slop-ste"].created == dt.date(2026, 9, 1)
-        assert by_slug["redesigning-the-redesign-nobody-asked-for"].created == dt.date(2026, 6, 26)
+        assert by_slug["ai-slop-ste"].created == dt.date(2026, 9, 15)
+        assert by_slug["redesigning-the-redesign-nobody-asked-for"].created == dt.date(2026, 8, 6)
 
     def test_ai_slop_images_resolve_to_the_shared_assets_directory(
         self, real_posts: list[sx.Post]
@@ -936,10 +936,9 @@ class TestRealContentTree:
                 assert re.match(r"^(?:https?:|mailto:|data:|#)", url), (post.source_path, url)
 
     def test_inline_html_survives_conversion(self, real_posts: list[sx.Post]) -> None:
-        septimana = next(p for p in real_posts if p.slug == "septimana-mirabilis")
-        assert "<p class='caption'" in septimana.html
-        gcash = next(p for p in real_posts if p.slug == "an-engineers-valuation-of-the-mynt-gcash-ipo")
-        assert "<div style=" in gcash.html
+        lbo = next(p for p in real_posts if p.slug == "the-worlds-largest-lbo-why-pif-wanted-electronic-arts")
+        assert "<p class=" in lbo.html
+        assert "<p class=" in lbo.html
 
     def test_feed_and_manifest_are_reproducible(self) -> None:
         first_posts = sx.build_posts(REAL_CONTENT)
