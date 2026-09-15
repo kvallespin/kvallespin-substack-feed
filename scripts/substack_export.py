@@ -415,6 +415,9 @@ def build_post(path: Path, content_dir: Path, base_url: str = DEFAULT_BASE_URL) 
         text = raw.decode("utf-8")
     except UnicodeDecodeError as exc:  # pragma: no cover - content is UTF-8
         raise ExportError(f"{label}: not valid UTF-8") from exc
+    # Strip UTF-8 BOM if present
+    if text.startswith("\ufeff"):
+        text = text[1:]
 
     try:
         meta, body = split_frontmatter(text)
