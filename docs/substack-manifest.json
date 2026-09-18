@@ -3,7 +3,7 @@
   "generator": "scripts/substack_export.py",
   "base_url": "https://kvallespin.github.io",
   "post_count": 13,
-  "feed_sha256": "acb8fe5a6891a0de74cddd334b1b7f816e884770daec4f19ddf7950eafbf5a45",
+  "feed_sha256": "72cae302339091cb3980d9bc9bcf303c35b8af269b51b63980c52119eead103f",
   "posts": [
     {
       "source_path": "content/data-science/ai-slop-ste.md",
@@ -92,13 +92,13 @@
     {
       "source_path": "content/finance/an-engineers-valuation-of-the-mynt-gcash-ipo.md",
       "canonical_url": "https://kvallespin.github.io/finance/an-engineers-valuation-of-the-mynt-gcash-ipo",
-      "sha256": "5423f46cbe3906a3583083dd392c672ef9f4458c1052cc027be446f911c79041",
+      "sha256": "b227b53628405e5f529877284839916f4472b5ff646a8eb8b77180f6798a604d",
       "date": "2026-07-28",
       "title": "An engineer's valuation of the Mynt/GCash IPO",
-      "description": "I valued the GCash IPO from the prospectus using the tools from my MBA finance courses, got PHP 2.33 a share against a PHP 10.00 offer, and then had the whole package audited.",
+      "description": "Three valuation methods, one answer: PHP 2.33 a share against a PHP 10 offer.",
       "section": "finance",
       "slug": "an-engineers-valuation-of-the-mynt-gcash-ipo",
-      "html_sha256": "daea67082546215a43963bd8fd76da3c6adabc6719b523a801c0a21a2dc45987",
+      "html_sha256": "f6b82fd79f2f9e4dbf4a6a82bcba2e69010e7d140af4a0ac3a1bb5795b5f962b",
       "image_count": 14
     },
     {
