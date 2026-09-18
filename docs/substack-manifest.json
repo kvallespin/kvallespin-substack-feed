@@ -3,18 +3,18 @@
   "generator": "scripts/substack_export.py",
   "base_url": "https://kvallespin.github.io",
   "post_count": 13,
-  "feed_sha256": "5b114b7cd3aa0dfc0e5b2660726e73a686fdf4c081f2d0e19e0c51d5ad137907",
+  "feed_sha256": "acb8fe5a6891a0de74cddd334b1b7f816e884770daec4f19ddf7950eafbf5a45",
   "posts": [
     {
       "source_path": "content/data-science/ai-slop-ste.md",
       "canonical_url": "https://kvallespin.github.io/data-science/ai-slop-ste",
-      "sha256": "74c401172d977c8c55fa6cd2538a399c1da96093700d4be88e9e4678469c0a08",
+      "sha256": "cf4a8be9ebb97f95dc57bcfbd084089d42cfffd0cab535d40b88e7274e9e9c94",
       "date": "2026-09-15",
       "title": "The cure for AI slop is a boring 40-year-old manual",
       "description": "Banning AI writing tells treats the symptoms. A checkable writing system fixes the structure.",
       "section": "data-science",
       "slug": "ai-slop-ste",
-      "html_sha256": "d688070a7f85f80ca87dfa4cebb7a2f8e86562662fa1008b191b32494c8c7d00",
+      "html_sha256": "3f726646c8a2dfdf95083537df19b0a5cb6069b93ac6db3fa5cef86d7416ce84",
       "image_count": 2
     },
     {
