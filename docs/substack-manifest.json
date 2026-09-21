@@ -3,7 +3,7 @@
   "generator": "scripts/substack_export.py",
   "base_url": "https://kvallespin.github.io",
   "post_count": 13,
-  "feed_sha256": "b241e4ef4ed1d9a747c8d4169f6f2d07287c1525f2d2de6ef82155cb3fad4883",
+  "feed_sha256": "ae6e9b24327e07fb3608f065897679168c88088ac8ce4ddf6b0372999188d12e",
   "posts": [
     {
       "source_path": "content/data-science/ai-slop-ste.md",
@@ -68,13 +68,13 @@
     {
       "source_path": "content/data-science/redesigning-the-redesign-nobody-asked-for.md",
       "canonical_url": "https://kvallespin.github.io/data-science/redesigning-the-redesign-nobody-asked-for",
-      "sha256": "bb9a9679f71cf5bd983b81d5ec277266ddceb78aecf4c28233d9996f42be6f98",
+      "sha256": "3c735463fd765adb9fe0098d1bc518aeae86758118e7fc584024300a860225b6",
       "date": "2026-08-06",
       "title": "Redesigning the redesign nobody asked for",
       "description": "A small data visualization detour about replacing a tidy procurement score bar chart with a radar chart, then a faceted dot plot that makes the comparison easier to trust.",
       "section": "data-science",
       "slug": "redesigning-the-redesign-nobody-asked-for",
-      "html_sha256": "fad3cb72bf856125d8dd075e7f025ef9e42238785d4449d8278f5683ed6d55dc",
+      "html_sha256": "09c910d60536afb575e4ed46ac7d5f256e385cb626c12cad6df99c20cd04a230",
       "image_count": 5
     },
     {
