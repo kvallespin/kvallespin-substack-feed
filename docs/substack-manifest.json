@@ -3,7 +3,7 @@
   "generator": "scripts/substack_export.py",
   "base_url": "https://kvallespin.github.io",
   "post_count": 13,
-  "feed_sha256": "ae6e9b24327e07fb3608f065897679168c88088ac8ce4ddf6b0372999188d12e",
+  "feed_sha256": "1778aac2c05571dccf51333fa581d10221cbf2190dce86e4ab021da0ce5b1e51",
   "posts": [
     {
       "source_path": "content/data-science/ai-slop-ste.md",
@@ -56,13 +56,13 @@
     {
       "source_path": "content/finance/the-worlds-largest-lbo-why-pif-wanted-electronic-arts.md",
       "canonical_url": "https://kvallespin.github.io/finance/the-worlds-largest-lbo-why-pif-wanted-electronic-arts",
-      "sha256": "f3a6f2ed73d2b943b4d845b61ffe8bfa9219a5428ce5593308543b278fb9f263",
+      "sha256": "06b93c840109afa85ccf0ad49d3399680dca31e90f8038f4c4893b0bd4c8aa58",
       "date": "2026-08-12",
       "title": "The world's largest LBO: why PIF wanted Electronic Arts",
-      "description": "A sovereign wealth fund paid five figures in billions for a game publisher, and the only way that math works is if you stop reading it like a private equity buyout.",
+      "description": "USD 36 billion of equity behind USD 18 billion of debt. The leverage is inverted, and the inversion is the point.",
       "section": "finance",
       "slug": "the-worlds-largest-lbo-why-pif-wanted-electronic-arts",
-      "html_sha256": "a1709c57b2fa9eee5534eaa7c0cc23d622febd442b78cddb035a0888aa151882",
+      "html_sha256": "318b1414826c0d2fd73ceb2c16ebe684de0295f2ac66058b4fe90aac40c56e30",
       "image_count": 12
     },
     {

@@ -519,144 +519,105 @@
       <guid isPermaLink="true">https://kvallespin.github.io/finance/the-worlds-largest-lbo-why-pif-wanted-electronic-arts</guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
       <dc:creator><![CDATA[Kenneth Vallespin]]></dc:creator>
-      <description><![CDATA[A sovereign wealth fund paid five figures in billions for a game publisher, and the only way that math works is if you stop reading it like a private equity buyout.]]></description>
-      <content:encoded><![CDATA[<p><em>A sovereign wealth fund paid five figures in billions for a game publisher, and the only way that math works is if you stop reading it like a private equity buyout</em></p>
-<p><img alt="PIF and Electronic Arts banner showing the PIF and EA marks over EA headquarters." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/banner_pif_ea.png" /></p>
-<p class="image-credit" style="text-align:center;font-size:0.8rem;color:#475461;">Image credit: AI-generated image based on PIF's Electronic Arts acquisition announcement<br><a href="https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/">https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/</a></p>
-
-<p><strong><em>Disclaimer:</em></strong> <em>I use AI as a writing partner to refine my prose and structure, but the ideas, analysis, and first drafts originate entirely with me.</em></p>
-<p class="kv-cerise-red"><strong>Disclaimer.</strong> THIS IS AN ACADEMIC EXERCISE, not investment advice or a fairness opinion. Every input comes from public sources, EA filings, and a model I built that you can trace line by line. All company names, trademarks, and logos referenced are the property of their respective owners.</p>
-
-<p>Three weeks ago, EA shareholders owned shares of a company listed on the New York Stock Exchange. The top holders were BlackRock, Vanguard, State Street, and about sixty thousand other accounts.</p>
-<p>Today, one entity owns 93.4 percent of that company.</p>
-<p>That entity is the Public Investment Fund of Saudi Arabia. It paid USD 55 billion for control, financed with USD 18 billion of debt that EA now carries. The debt service eats most of the company's free cash flow. At first glance, this looks like a richly priced buyout of a mature software business with flat growth.</p>
-<p><img alt="Biggest private-equity LBOs chart showing EA at USD 55 billion compared with historical mega-buyouts." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/00_biggest_lbos.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">EA at USD 55 billion is now the largest private-equity LBO ever. By a wide margin.</p>
-
-<p>It is not a buyout. It is a platform acquisition dressed in LBO mechanics, and it only makes sense if you understand what PIF is actually building.</p>
-<h2>The ownership change is the whole story</h2>
-<p>Here is what the shareholder register looked like before the deal, from the top five listed holders:</p>
+      <description><![CDATA[USD 36 billion of equity behind USD 18 billion of debt. The leverage is inverted, and the inversion is the point.]]></description>
+      <content:encoded><![CDATA[<p><em>USD 36 billion of equity behind USD 18 billion of debt. The leverage is inverted, and the inversion is the point</em></p>
+<p><img alt="PIF and EA marks over EA headquarters" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/banner_pif_ea.png" />
+<em>Image credit: AI-generated image based on PIF's Electronic Arts acquisition announcement</em>
+<a href="https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/">https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/</a></p>
+<blockquote>
+<p><strong>Disclosure:</strong> I use AI as a writing partner to refine my prose and structure, but the ideas, analysis, and first drafts originate entirely with me.</p>
+</blockquote>
+<p><strong>Disclaimer.</strong> This is an academic exercise, not investment advice or a fairness opinion. Every input comes from public sources, EA filings, and a model I built that you can trace line by line.</p>
+<p>Every leveraged buyout you have ever read about has the same skeleton. Thin equity, a tower of debt, and a clock. The equity exists to absorb one rough quarter, nothing more, and the rest of the structure assumes the business grows into the debt on schedule or goes to the hammer.</p>
+<p>Electronic Arts was bought the other way around.</p>
+<p>The Public Investment Fund of Saudi Arabia, with Silver Lake and Affinity Partners alongside, put USD 36 billion of equity into the transaction and borrowed USD 18 billion against it. The equity is double the debt. In a classic PE buyout the equity might be USD 2 billion, and one bad quarter forces a sale. Here the cushion is deeper than the borrowing.</p>
+<p>At USD 55 billion of enterprise value, this is the largest leveraged buyout ever recorded. By a wide margin.</p>
+<p><img alt="Biggest private-equity LBOs chart" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/00_biggest_lbos.png" />
+<em>EA at USD 55 billion is now the largest private-equity LBO ever. By a wide margin.</em></p>
+<p>That inversion, big equity, modest debt, is not a footnote in this transaction. It is the transaction. The price, the hold period, the risk profile all follow from it. So does the reason PIF bothered at all.</p>
+<h2>The shareholder register tells the story in five lines</h2>
+<p>Three weeks ago, EA shares traded on the New York Stock Exchange. The top holders were BlackRock at 9.95 percent, PIF at 9.83, Vanguard at 6.13, State Street at 5.60, and Pentwater at 5.07. The remaining 63.42 percent sprawled across a long tail of institutional and retail accounts, about sixty thousand other accounts.</p>
+<p>Today, one entity owns 93.4 percent of the company: PIF. Silver Lake sits at 5.5 percent, Affinity Partners at 1.1. Token stakes for the financial partners.</p>
+<p><img alt="Ownership split pre and post deal" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/06_ownership_split.png" />
+<em>The top chart shows the pre-deal dispersed public ownership. The bottom chart shows what PIF, Silver Lake, and Affinity now hold. Public market ownership is gone.</em></p>
+<p>That is not an investment. That is control.</p>
+<p>The terms: USD 210 per share in cash, a 24.8 percent premium over the last unaffected price of USD 168.32. PIF rolled its existing stake into the transaction. Implied equity value: roughly USD 52.66 billion across 250.751 million shares.</p>
+<p><img alt="Transaction split" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/01_transaction_split.png" />
+<em>USD 36 billion of equity investment. USD 18 billion of funded debt. The capital is deep; the debt is serviceable.</em></p>
+<h2>Read the price the way a credit desk reads it</h2>
+<p>At that price, the deal prints like this:</p>
 <ul>
-<li>BlackRock: 9.95 percent</li>
-<li>PIF: 9.83 percent</li>
-<li>Vanguard: 6.13 percent</li>
-<li>State Street: 5.60 percent</li>
-<li>Pentwater: 5.07 percent</li>
+<li>6.9x FY26 net bookings of USD 8.026 billion</li>
+<li>23.7x FY26 free cash flow proxy of USD 2.32 billion</li>
+<li>37.0x FY26 GAAP trailing EBITDA of USD 1.485 billion</li>
 </ul>
-<p>The remaining 63.42 percent was held by a long tail of institutional and retail accounts.</p>
-<p>After the deal closes:</p>
-<p><img alt="Ownership split chart showing EA's listed ownership by top holders and the post-LBO private ownership split." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/06_ownership_split.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">The top chart shows the pre-deal dispersed public ownership. The bottom chart shows what PIF, Silver Lake, and Affinity now hold. Public market ownership is gone.</p>
-
-<ul>
-<li>PIF: 93.4 percent</li>
-<li>Silver Lake: 5.5 percent</li>
-<li>Affinity Partners: 1.1 percent</li>
-</ul>
-<p>That is not an investment. That is control. PIF moved from being the largest listed shareholder to owning the company outright, with two financial partners holding token minority stakes.</p>
-<p><img alt="Simple transaction bar chart showing USD 36 billion of equity investment and USD 18 billion of funded debt." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/01_transaction_split.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">USD 36 billion of equity investment. USD 18 billion of funded debt. The capital is deep; the debt is serviceable.</p>
-
-<p>The terms were USD 210 per share in cash, a 24.8 percent premium over the last unaffected price of USD 168.32. PIF rolled its existing stake into the transaction. The implied equity value: roughly USD 52.66 billion on 250.751 million shares.</p>
-<h2>Why PIF, and why now</h2>
-<p>PIF published its 2026-2030 strategy in the same window this deal was being negotiated. The document describes a fund in transition, moving from rapid scale-building to value realization. It organizes its capital into three portfolios: a Vision Portfolio for domestic ecosystem building, a Strategic Portfolio for high-conviction international holdings, and a Financial Portfolio for diversified returns.</p>
-<p>The Vision Portfolio's Tourism, Travel &amp; Entertainment section explicitly lists sports, entertainment venues and events, aviation, connectivity, and supporting services.</p>
-<p>EA is a global game publisher with the following franchises:</p>
-<ul>
-<li>EA Sports FC (global football)</li>
-<li>Madden NFL and College Football (American football)</li>
-<li>F1 (motorsport)</li>
-<li>Battlefield and Apex Legends (shooter IP)</li>
-<li>The Sims (simulation)</li>
-</ul>
-<p>Plus the player data, live-service infrastructure, and digital communities built around them.</p>
-<p><img alt="Revenue mix chart showing FY26 live services and other revenue at USD 5.383B, or 71.5 percent, and full game revenue at USD 2.148B, or 28.5 percent." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/02_revenue_mix.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">Live services and recurring revenue: 71.5 percent of FY26 revenue. This is the financeable part.</p>
-
-<p><img alt="Electronic Arts revenue by platform chart showing console, PC and other, and mobile from Mar 2013 to LTM." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/09_revenue_by_platform.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">Console still dominates, but PC and mobile are growing. Platform risk is real but manageable.</p>
-
-<p>If you are building an entertainment and sports ecosystem in the Gulf and you want digital fan engagement at global scale, EA is one of maybe three companies on Earth that can provide it. Disney owns sports media. Amazon is buying into sports broadcasting. But nobody else owns the actual interactive properties where fans spend eight hours a week.</p>
-<p>Control matters for this. PIF could have kept its nine percent stake and enjoyed dividend yield. It chose ownership because it wants alignment: franchise investment, sports licensing, fan data integration, regional content. You cannot coordinate that from the outside.</p>
-<h2>The price looks wrong, until you check what you're comparing it to</h2>
-<p>At USD 55 billion of enterprise value, the deal prints out like this:</p>
-<ul>
-<li>6.9x FY26 net bookings (USD 8.026 billion)</li>
-<li>23.7x FY26 free cash flow proxy (USD 2.32 billion)</li>
-<li>37.0x FY26 GAAP trailing EBITDA (USD 1.485 billion)</li>
-</ul>
-<p>Those are expensive multiples for a company whose revenue was flat from FY22 to FY25.</p>
-<p><img alt="Net bookings path chart showing EA net bookings at USD 7.515B in FY22, USD 7.426B in FY23, USD 7.430B in FY24, USD 7.355B in FY25, and USD 8.026B in FY26." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/03_bookings_path.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">EA's net bookings were flat from FY22 to FY25 before the FY26 rebound. This is why the forward-looking framing matters.</p>
-
+<p>Expensive multiples for a business whose revenue went flat. Bookings sat at USD 7.515 billion in FY22, slipped to 7.426, drifted to 7.430, dipped to 7.355 in FY25, and jumped to 8.026 only in FY26.</p>
+<p><img alt="Net bookings path" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/03_bookings_path.png" />
+<em>EA's net bookings were flat from FY22 to FY25 before the FY26 rebound. This is why the forward-looking framing matters.</em></p>
 <p>So why did a rational sovereign fund pay that?</p>
-<p>Compare it to what else PIF wanted to build. It could have spent USD 55 billion on stadiums, esports arenas, a league structure, content production, a regional game development ecosystem, and still not have global interactive IP. It could have done all of that and still been dependent on EA's licenses.</p>
-<p>The deal is not expensive when you price the alternative: building the same platform from scratch, which would cost more and take longer.</p>
-<h2>The debt is the part that actually works</h2>
-<p>This is the part I checked first. USD 18 billion of funded debt, priced around 8 percent, means about USD 1.44 billion in annual interest. EA generated USD 2.553 billion in operating cash flow in FY26. Subtract USD 230 million of capex and you get roughly USD 2.32 billion in free cash flow.</p>
-<p>The interest consumes about 62 percent of that.</p>
-<p><img alt="Debt stress chart showing interest on USD 18 billion funded debt at 7 percent, 8 percent, and 9 percent compared against the FY26 FCF proxy." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/04_debt_stress.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">At 7 percent: 54.2 percent of FCF. At 8 percent: 62.0 percent. At 9 percent: 69.7 percent. Serviceable, but not loose.</p>
-
-<p>That is tight. It means EA cannot miss on its next few release cycles. A weak EA Sports FC, or a Madden licensing issue, or an Apex decline, and the debt service becomes painful.</p>
-<p>But it is serviceable. And PIF has USD 36 billion of equity invested in the deal, meaning it has massive loss-absorption capacity if the debt market reprices. This is not a leveraged buyout where the equity is USD 2 billion and one bad quarter forces a sale.</p>
-<p><img alt="LBO model summary table showing the core transaction, valuation, cash flow, leverage, and debt-service metrics." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/07_lbo_model_summary.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">Key metrics at a glance. The USD 36 billion of equity is the safety net that makes this different from a classic PE LBO.</p>
-
-<p><img alt="Electronic Arts Q1 FY26 income statement flow chart showing revenue, gross profit, operating profit, expenses, and net profit." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/10_q1_fy26_income_statement.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">Q1 FY26 income statement. This is what generates the free cash flow that services the debt.</p>
-
-<p>I modeled a seven-year debt paydown scenario:</p>
-<ul>
-<li>Revenue grows at 3.5 percent annually</li>
-<li>Free cash flow margin stays at the FY26 level of 30.8 percent</li>
-<li>All post-interest FCF goes to debt repayment</li>
-<li>Interest at 8 percent on beginning debt balance</li>
-</ul>
-<p><img alt="Seven-year cash flow table showing revenue, FCF proxy, interest, debt paydown, ending debt, and debt to FCF with years shown as columns." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/08_cash_flow_schedule.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">Seven-year debt paydown schedule at 8 percent interest. Debt falls but never fully disappears, consistent with a long-horizon hold.</p>
-
-<p>Under those assumptions, EA reduces the debt significantly over the hold period. It does not become unlevered, which is consistent with PIF likely holding indefinitely rather than exiting in five years.</p>
-<p>The EBITDA multiple is misleading because credit markets use forward estimates. One credit analysis puts the deal at 18x forward EBITDA, which is reasonable. My GAAP trailing number of 37x reflects the current earnings trough, not the run rate this deal was underwritten against.</p>
-<p><img alt="EBITDA definition sensitivity chart comparing the forecasted credit-market EBITDA multiple of 17.7x with a GAAP FY26 proxy multiple of 37.0x." src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/05_ebitda_sensitivity.png" /></p>
-<p class="image-caption" style="text-align:center;font-size:0.92rem;color:#5F6B77;font-style:italic;">The 17.7x multiple uses forecasted EBITDA. The 37.0x multiple uses FY26 GAAP operating income plus a limited addback. Both are right; they answer different questions.</p>
-
-<h2>What has to go right</h2>
-<p>The deal breaks in one of three ways:</p>
+<h2>Because the alternative cost more</h2>
+<p>PIF published its 2026-2030 strategy in the same window this deal was negotiated. It describes a fund in transition, finished with rapid scale-building, now in value-realization mode. Its capital runs through three portfolios: Vision, for domestic ecosystem building; Strategic, for high-conviction international holdings; Financial, for diversified returns. The Vision Portfolio's Tourism, Travel and Entertainment section lists sports, entertainment venues and events, aviation, connectivity, and supporting services.</p>
+<p>Read EA against that list. It owns EA Sports FC in global football, Madden NFL and College Football in American football, F1 in motorsport, Battlefield and Apex Legends in shooter IP, and The Sims in simulation. On top of that sits the player data, the live-service infrastructure, and the digital communities built around all of it.</p>
+<p>And look at what the revenue is made of. Live services and recurring revenue accounted for USD 5.383 billion of FY26 revenue, 71.5 percent of it. Full game revenue was USD 2.148 billion, 28.5 percent. A buyer that needs cash flows it can plan around cares about that split.</p>
+<p><img alt="Revenue mix" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/02_revenue_mix.png" />
+<em>Live services and recurring revenue: 71.5 percent of FY26 revenue. This is the financeable part.</em></p>
+<p><img alt="EA revenue by platform" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/09_revenue_by_platform.png" />
+<em>Console still dominates, but PC and mobile are growing. Platform risk is real but manageable.</em></p>
+<p>If you are standing up an entertainment and sports ecosystem in the Gulf and you want digital fan engagement at global scale, EA is one of maybe three companies on Earth that can hand it to you. Disney owns the sports media. Amazon is buying into sports broadcasting. Nobody else owns the interactive properties where fans actually spend eight hours a week.</p>
+<p>PIF could have kept its nine percent stake and enjoyed the dividend yield. It bought ownership instead because alignment cannot be negotiated from the outside: franchise investment, sports licensing, fan data integration, regional content.</p>
+<p>Here is the comparison that makes the price sane. USD 55 billion could have bought stadiums, esports arenas, a league structure, content production, a regional game development ecosystem. It would not have bought global interactive IP. It would have bought dependency on EA's licenses. The deal is not expensive against the alternative, building the same platform from scratch for more money over more years.</p>
+<h2>The debt, checked honestly</h2>
+<p>This is the part I examined first. USD 18 billion of funded debt at roughly 8 percent costs about USD 1.44 billion a year in interest. EA generated USD 2.553 billion of operating cash flow in FY26. Subtract USD 230 million of capex and the free cash flow proxy lands near USD 2.32 billion.</p>
+<p>The interest eats about 62 percent of that.</p>
+<p>Stress the pricing and the picture tightens: at 7 percent, interest takes 54.2 percent of FCF. At 9 percent, 69.7. Serviceable at every level, comfortable at none of them.</p>
+<p><img alt="Debt stress" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/04_debt_stress.png" />
+<em>At 7 percent: 54.2 percent of FCF. At 8 percent: 62.0 percent. At 9 percent: 69.7 percent. Serviceable, but not loose.</em></p>
+<p>That is a company that cannot miss on its next few release cycles. A weak EA Sports FC, a Madden licensing dispute, an Apex slide, and the debt service stops being a footnote.</p>
+<p>Then look at what sits behind it. USD 36 billion of PIF equity. If the debt markets reprice, there is no margin of call on this structure. No USD 2 billion equity check waiting to break.</p>
+<p><img alt="LBO model summary" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/07_lbo_model_summary.png" />
+<em>Key metrics at a glance. The USD 36 billion of equity is the safety net that makes this different from a classic PE LBO.</em></p>
+<p><img alt="Q1 FY26 income statement flow" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/10_q1_fy26_income_statement.png" />
+<em>Q1 FY26 income statement. This is what generates the free cash flow that services the debt.</em></p>
+<p>I modeled a seven-year paydown: revenue growing 3.5 percent a year, free cash flow margin holding at FY26's 30.8 percent, all post-interest FCF directed at the debt, interest at 8 percent on the beginning balance. The debt comes down substantially over the hold period and never disappears.</p>
+<p>That is not a defect. Delever to zero in seven years and you are running an exit clock. Stay levered through the hold and you are holding the company.</p>
+<p><img alt="Seven-year cash flow schedule" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/08_cash_flow_schedule.png" />
+<em>Seven-year debt paydown schedule at 8 percent interest. Debt falls but never fully disappears, consistent with a long-horizon hold.</em></p>
+<p>One more sentence on the multiples. Credit markets underwrite forward, and one credit analysis puts the deal at about 18x forward EBITDA, reasonable for this asset. My 37x GAAP trailing number measures the current earnings trough, not the run rate the deal was underwritten against.</p>
+<p><img alt="EBITDA definition sensitivity" src="https://kvallespin.github.io/finance/assets/ea-pif-lbo/05_ebitda_sensitivity.png" />
+<em>The 17.7x multiple uses forecasted EBITDA. The 37.0x multiple uses FY26 GAAP operating income plus a limited addback. Both are right; they answer different questions.</em></p>
+<h2>Three ways this breaks</h2>
 <ol>
-<li>EA cuts creative investment to service the debt. Franchises weaken. Players leave. Revenue falls below the modeled growth. The debt service becomes unmanageable.</li>
-<li>Licensing costs spiral. Football and NFL rights are renegotiated upward. Margins compress. Free cash flow drops.</li>
-<li>The Saudi entertainment ecosystem build fails to generate strategic value. PIF paid for platform access that never gets integrated.</li>
+<li>EA cuts creative investment to service the debt. Franchises weaken, players leave, revenue lands below modeled growth, and the debt service becomes unmanageable.</li>
+<li>Licensing costs spiral. Football and NFL rights get renegotiated upward, margins compress, free cash flow shrinks.</li>
+<li>The Saudi entertainment ecosystem never comes together. PIF pays for platform access that never gets plugged in.</li>
 </ol>
-<p>The deal works if PIF uses the ownership to do what a public market company cannot: invest in franchise IP over a ten-year horizon, absorb creative risk that would tank quarterly earnings, and integrate EA into a broader sports and entertainment ecosystem that makes the whole portfolio more valuable.</p>
+<p>The deal does its job if PIF spends the ownership doing what a public company cannot: invest in franchise IP on a ten-year horizon, absorb creative risk that would crater a quarterly print, and weld EA into a broader sports and entertainment ecosystem so the portfolio is worth more than its pieces alone.</p>
 <h2>The thing nobody is talking about</h2>
-<p>EA is one of the last major global entertainment companies still owned by public market shareholders. Disney went through multiple ownership changes and is now controlled by Bob Iger and the Disney board. Warner Bros. Discovery is a complex joint venture. Netflix is still public but founder-led.</p>
-<p>When PIF takes EA private, it joins a small club of sovereign and private owners of global media and entertainment assets. This is not an outlier move. This is a pattern.</p>
-<p>The public markets are not structured to value creative franchises with ten-year development cycles. The quarterly earnings call is an anti-innovation mechanism. Taking these companies private removes that pressure. It is expensive. It is also necessary if you want the next generation of interactive entertainment.</p>
-<h2>My position on this</h2>
-<p>I work at a PIF portfolio company. EA is now our sister company. I had a professional and personal reason to check whether the numbers add up, because if the debt structure fails, it affects the broader portfolio.</p>
-<p>They add up. The debt is serviceable at current rates. The equity cushion is massive. The strategic logic is sound. The only real risk is execution: does PIF manage EA like an investment or like a strategic asset?</p>
-<p>If it is the former, this is an expensive buyout of a mature software business that will disappoint over the next five years.</p>
-<p>If it is the latter, this is one of the most important entertainment industry transactions of the decade.</p>
-<p>Based on the PIF strategy document and the scale of this commitment, I think it is the latter.</p>
-<p>I'd welcome pushback, especially from anyone in credit markets who thinks I underweighted the debt risk.</p>
+<p>EA is one of the last major global entertainment companies still owned by public market shareholders. Disney has been through several ownership upheavals and is now controlled by Bob Iger and the Disney board. Warner Bros. Discovery is a joint venture nobody can draw on a napkin. Netflix is still public but founder-led.</p>
+<p>When PIF takes EA private, it joins a small club of sovereign and private owners of global media and entertainment assets. That is not an outlier move. It is a pattern completing itself.</p>
+<p>Public markets are not structured to value creative franchises with ten-year development cycles. The quarterly earnings call is an anti-innovation mechanism, and taking these companies private removes that pressure for good. It is expensive. It is also, arguably, necessary if the next generation of interactive entertainment is going to get made at all.</p>
+<h2>Where I land</h2>
+<p>I work at a PIF portfolio company. EA is now our sister company, which gave me a professional and a personal reason to check whether the numbers add up. If the debt structure fails, the broader portfolio feels it.</p>
+<p>They add up. The debt is serviceable at current rates, the equity cushion is massive, the strategic logic holds. The one real risk left is execution: does PIF manage EA like an investment, or like a strategic asset?</p>
+<p>Like an investment, this is an expensive buyout of a mature software business that will disappoint over the next five years. Like a strategic asset, it is one of the most consequential entertainment transactions of the decade. The strategy document and the size of the commitment both point at the latter.</p>
+<p>I would welcome pushback, especially from anyone in credit markets who thinks I underweighted the debt.</p>
 <hr />
 <h2>Sources</h2>
 <ul>
-<li><a href="https://news.ea.com/press-releases/press-releases-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx">EA Announces Agreement to be Acquired by PIF, Silver Lake and Affinity Partners</a></li>
-<li><a href="https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/">PIF: Electronic Arts Announces Completion of Acquisition</a></li>
-<li><a href="https://www.pif.gov.sa/en/strategy-and-impact/our-strategy/">PIF Strategy 2026-2030</a></li>
-<li><a href="https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/strategy-and-impact/our-strategy/pif-strategy-2026-2030-en.pdf">PIF Strategy 2026-2030 PDF</a></li>
-<li><a href="https://www.sec.gov/Archives/edgar/data/712515/000162828026033617/ea-20260331.htm">Electronic Arts FY26 Form 10-K</a></li>
-<li><a href="https://s202.q4cdn.com/886473115/files/doc_financials/2026/q4/Q4-FY26-Earnings-Release_FINAL.pdf">Electronic Arts Q4 FY26 Earnings Release</a></li>
-<li><a href="https://finance.yahoo.com/quote/EA/holders/">EA Listed Holder Data</a></li>
-<li><a href="https://bullfincher.io/companies/electronic-arts/ownership">EA Public Ownership Cross-check</a></li>
-<li><a href="https://finance.yahoo.com/news/majority-control-ea-could-shift-091000747.html">Private Ownership Split Reporting</a></li>
-<li><a href="https://www.9fin.com/insights/electronic-arts-coverage">Credit Market Debt Coverage Analysis</a></li>
-<li><a href="https://know.creditsights.com/insights/electronic-arts-record-setting-55bn-lbo/">CreditSights LBO Analysis</a></li>
-<li><a href="https://www.appeconomyinsights.com/p/ea-the-biggest-lbo-ever">App Economy Insights LBO Commentary</a></li>
-<li><a href="https://www.gamesindustry.biz/why-the-55bn-acquisition-of-electronic-arts-isnt-your-usual-leveraged-buyout">GamesIndustry.biz Acquisition Analysis</a></li>
-<li><a href="https://newzoo.com/articles/global-games-market-189-billion-2025">Newzoo Global Games Market 2025</a></li>
+<li>EA Announces Agreement to be Acquired by PIF, Silver Lake and Affinity Partners: <a href="https://news.ea.com/press-releases/press-releases-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx">https://news.ea.com/press-releases/press-releases-details/2025/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-55-Billion/default.aspx</a></li>
+<li>PIF Electronic Arts Acquisition Completion: <a href="https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/">https://www.pif.gov.sa/en/news-and-insights/newswire/2026/electronic-arts-announces-completion-of-acquisition-by-pif-silver-lake-and-affinity-partners/</a></li>
+<li>PIF Strategy 2026-2030: <a href="https://www.pif.gov.sa/en/strategy-and-impact/our-strategy/">https://www.pif.gov.sa/en/strategy-and-impact/our-strategy/</a></li>
+<li>PIF Strategy 2026-2030 PDF: <a href="https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/strategy-and-impact/our-strategy/pif-strategy-2026-2030-en.pdf">https://www.pif.gov.sa/-/media/project/pif-corporate/pif-corporate-site/strategy-and-impact/our-strategy/pif-strategy-2026-2030-en.pdf</a></li>
+<li>Electronic Arts FY26 Form 10-K: <a href="https://www.sec.gov/Archives/edgar/data/712515/000162828026033617/ea-20260331.htm">https://www.sec.gov/Archives/edgar/data/712515/000162828026033617/ea-20260331.htm</a></li>
+<li>Electronic Arts Q4 FY26 Earnings Release: <a href="https://s202.q4cdn.com/886473115/files/doc_financials/2026/q4/Q4-FY26-Earnings-Release_FINAL.pdf">https://s202.q4cdn.com/886473115/files/doc_financials/2026/q4/Q4-FY26-Earnings-Release_FINAL.pdf</a></li>
+<li>EA Listed Holder Data: <a href="https://finance.yahoo.com/quote/EA/holders/">https://finance.yahoo.com/quote/EA/holders/</a></li>
+<li>EA Public Ownership Cross-check: <a href="https://bullfincher.io/companies/electronic-arts/ownership">https://bullfincher.io/companies/electronic-arts/ownership</a></li>
+<li>Private Ownership Split Reporting: <a href="https://finance.yahoo.com/news/majority-control-ea-could-shift-091000747.html">https://finance.yahoo.com/news/majority-control-ea-could-shift-091000747.html</a></li>
+<li>Credit Market Debt Coverage Analysis: <a href="https://www.9fin.com/insights/electronic-arts-coverage">https://www.9fin.com/insights/electronic-arts-coverage</a></li>
+<li>CreditSights LBO Analysis: <a href="https://know.creditsights.com/insights/electronic-arts-record-setting-55bn-lbo/">https://know.creditsights.com/insights/electronic-arts-record-setting-55bn-lbo/</a></li>
+<li>App Economy Insights LBO Commentary: <a href="https://www.appeconomyinsights.com/p/ea-the-biggest-lbo-ever">https://www.appeconomyinsights.com/p/ea-the-biggest-lbo-ever</a></li>
+<li>GamesIndustry.biz Acquisition Analysis: <a href="https://www.gamesindustry.biz/why-the-55bn-acquisition-of-electronic-arts-isnt-your-usual-leveraged-buyout">https://www.gamesindustry.biz/why-the-55bn-acquisition-of-electronic-arts-isnt-your-usual-leveraged-buyout</a></li>
+<li>Newzoo Global Games Market 2025: <a href="https://newzoo.com/articles/global-games-market-189-billion-2025">https://newzoo.com/articles/global-games-market-189-billion-2025</a></li>
 </ul>]]></content:encoded>
     </item>
     <item>
