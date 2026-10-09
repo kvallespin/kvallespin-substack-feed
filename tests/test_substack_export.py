@@ -42,6 +42,37 @@ EXPECTED_SOURCE_PATHS = [
 
 
 # ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+_CODE_FENCE_RE = re.compile(r"^(```|~~~).*?^\1[ \t]*$", re.DOTALL | re.MULTILINE)
+_CODE_SPAN_RE = re.compile(r"`[^`\n]*`")
+_TAG_RE = re.compile(r"<([a-zA-Z][a-zA-Z0-9-]*)((?:[^<>\"']|\"[^\"]*\"|'[^']*')*)>")
+_ATTR_RE = re.compile(r"([a-zA-Z_:][-a-zA-Z0-9_:.]*)\s*=\s*(\"[^\"]*\"|'[^']*')")
+
+
+def styled_inline_attributes(markdown_text: str) -> list[str]:
+    """Return the ``class``/``style`` attributes written as inline HTML.
+
+    Code fences and code spans are dropped first, because escaped markup in an
+    example is not markup the converter has to preserve. Attributes are matched
+    at attribute position so a URL that merely contains ``style=`` is not
+    mistaken for styling.
+
+    Only the styling attributes are returned, never the whole tag: a tag's
+    ``src`` or ``href`` is legitimately rewritten to an absolute URL, so the tag
+    as a whole is not expected to survive conversion byte for byte.
+    """
+    text = _CODE_SPAN_RE.sub("", _CODE_FENCE_RE.sub("", markdown_text))
+    found: list[str] = []
+    for tag in _TAG_RE.finditer(text):
+        for attr in _ATTR_RE.finditer(tag.group(2)):
+            if attr.group(1).lower() in {"class", "style"}:
+                found.append(attr.group(0))
+    return found
+
+
+# ---------------------------------------------------------------------------
 # Fixtures
 # ---------------------------------------------------------------------------
 
@@ -265,6 +296,46 @@ class TestMarkdownToHtml:
     def test_conversion_is_repeatable(self) -> None:
         source = "# A\n\ntext *emphasis*\n"
         assert sx.markdown_to_html(source) == sx.markdown_to_html(source)
+
+
+# ---------------------------------------------------------------------------
+# styled_inline_attributes helper (used by the real-tree tripwire)
+# ---------------------------------------------------------------------------
+
+
+class TestStyledInlineAttributes:
+    """The tripwire is only as good as the scan behind it, so test the scan."""
+
+    def test_catches_class_and_style_attributes(self) -> None:
+        # The two shapes that used to be hard-pinned to specific articles.
+        assert styled_inline_attributes("<p class='caption'>Text</p>\n") == [
+            "class='caption'"
+        ]
+        assert styled_inline_attributes('<div style="text-align:center">x</div>\n') == [
+            'style="text-align:center"'
+        ]
+
+    def test_styling_on_a_tag_that_gets_url_rewritten_is_still_caught(self) -> None:
+        source = '<img src="assets/a.png" style="max-height:480px" alt="a"/>\n'
+        assert styled_inline_attributes(source) == ['style="max-height:480px"']
+
+    def test_plain_markup_and_autolinks_are_not_styling(self) -> None:
+        text = (
+            "Plain paragraph.\n\n"
+            '<img src="assets/a.png" alt="a">\n\n'
+            "<https://example.com/a/b>\n\n"
+            "</div>\n"
+        )
+        assert styled_inline_attributes(text) == []
+
+    def test_markup_in_examples_is_ignored(self) -> None:
+        assert styled_inline_attributes('```\n<p class="caption">x</p>\n```\n') == []
+        assert styled_inline_attributes('Use `<div style="x">` in your markup.\n') == []
+
+    def test_url_that_happens_to_contain_style_is_not_styling(self) -> None:
+        # Relative hrefs get rewritten, so counting this as styling would make
+        # the tripwire fail for the wrong reason.
+        assert styled_inline_attributes('<a href="page?style=wide">x</a>\n') == []
 
 
 # ---------------------------------------------------------------------------
@@ -935,10 +1006,27 @@ class TestRealContentTree:
             for url in pattern.findall(post.html):
                 assert re.match(r"^(?:https?:|mailto:|data:|#)", url), (post.source_path, url)
 
-    def test_inline_html_survives_conversion(self, real_posts: list[sx.Post]) -> None:
-        lbo = next(p for p in real_posts if p.slug == "the-worlds-largest-lbo-why-pif-wanted-electronic-arts")
-        assert "<p class=" in lbo.html
-        assert "<p class=" in lbo.html
+    def test_styled_inline_html_survives_in_the_real_tree(
+        self, real_posts: list[sx.Post]
+    ) -> None:
+        """Tripwire: styling written as inline HTML must reach the feed.
+
+        The expectation is read from the article itself rather than naming a
+        slug, so rewriting an article can never break the scheduled feed job.
+        This test used to assert that one specific post still contained
+        ``<p class=``, which failed twice as the referenced articles were
+        rewritten. The conversion guarantee itself lives in
+        ``TestMarkdownToHtml`` and ``TestRewriteUrls``, so this check passes
+        vacuously when the corpus contains no inline styling.
+        """
+        for post in real_posts:
+            # utf-8-sig mirrors the BOM handling inside build_post().
+            source = (REAL_CONTENT.parent / post.source_path).read_text(
+                encoding="utf-8-sig"
+            )
+            _, body = sx.split_frontmatter(source)
+            for attr in styled_inline_attributes(body):
+                assert attr in post.html, (post.source_path, attr)
 
     def test_feed_and_manifest_are_reproducible(self) -> None:
         first_posts = sx.build_posts(REAL_CONTENT)
