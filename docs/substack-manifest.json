@@ -2,9 +2,21 @@
   "schema_version": 1,
   "generator": "scripts/substack_export.py",
   "base_url": "https://kvallespin.github.io",
-  "post_count": 13,
-  "feed_sha256": "1778aac2c05571dccf51333fa581d10221cbf2190dce86e4ab021da0ce5b1e51",
+  "post_count": 14,
+  "feed_sha256": "dc4635746a2492be34adb2776a1f4663808c6faef0210c4396ad5aa3dce97ed2",
   "posts": [
+    {
+      "source_path": "content/finance/mynt-cardboard.md",
+      "canonical_url": "https://kvallespin.github.io/finance/mynt-cardboard",
+      "sha256": "e65e3bde0a4946306c076a04506ee38934d301860cb78d37934438bf045d81f1",
+      "date": "2026-10-16",
+      "title": "Revisiting Mynt: the cardboard appraisal",
+      "description": "A follow-up to my Mynt/GCash valuation.",
+      "section": "finance",
+      "slug": "mynt-cardboard",
+      "html_sha256": "6631a4314dfcd82ce4fbb50142ec6c838dd63a7a2803b83a7358cabb72dbca98",
+      "image_count": 1
+    },
     {
       "source_path": "content/data-science/ai-slop-ste.md",
       "canonical_url": "https://kvallespin.github.io/data-science/ai-slop-ste",
